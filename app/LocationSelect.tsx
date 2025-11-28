@@ -1,51 +1,83 @@
 // File: app/LocationSelect.tsx
-// Commit: Add JSON typing for safe indexing and remove all TS index signature errors.
+// Commit: Update component to support new location_data.json structure including postal codes.
 
 "use client";
 
 import { useState, useEffect } from "react";
-import citiesData from "./city_counts_food.json";
+import locationData from "./location_data.json";
 
-type CityCounts = {
+type LocationJSON = {
   [state: string]: {
-    [city: string]: number;
+    [city: string]: {
+      count: number;
+      postal_codes: string[];
+    };
   };
 };
 
 type LocationSelectProps = {
   onStateChange: (value: string) => void;
   onCityChange: (value: string) => void;
+  onPostalChange: (value: string) => void;
 };
 
-const citiesDataTyped = citiesData as CityCounts;
+const typedData = locationData as LocationJSON;
 
-export default function LocationSelect({ onStateChange, onCityChange }: LocationSelectProps) {
+export default function LocationSelect({
+  onStateChange,
+  onCityChange,
+  onPostalChange
+}: LocationSelectProps) {
   const [stateList, setStateList] = useState<string[]>([]);
   const [cityList, setCityList] = useState<string[]>([]);
-  const [selectedState, setSelectedState] = useState<string>("");
-  const [selectedCity, setSelectedCity] = useState<string>("");
+  const [postalList, setPostalList] = useState<string[]>([]);
 
+  const [selectedState, setSelectedState] = useState("");
+  const [selectedCity, setSelectedCity] = useState("");
+  const [selectedPostal, setSelectedPostal] = useState("");
+
+  // Load states on mount
   useEffect(() => {
-    setStateList(Object.keys(citiesDataTyped));
+    setStateList(Object.keys(typedData));
   }, []);
 
   function handleStateChange(e: React.ChangeEvent<HTMLSelectElement>) {
-    const newState = e.target.value;
-    setSelectedState(newState);
-    setSelectedCity("");
-    onStateChange(newState);
+    const st = e.target.value;
 
-    if (newState && citiesDataTyped[newState]) {
-      setCityList(Object.keys(citiesDataTyped[newState]));
+    setSelectedState(st);
+    setSelectedCity("");
+    setSelectedPostal("");
+
+    onStateChange(st);
+
+    if (st && typedData[st]) {
+      setCityList(Object.keys(typedData[st]));
     } else {
       setCityList([]);
     }
+
+    setPostalList([]);
   }
 
   function handleCityChange(e: React.ChangeEvent<HTMLSelectElement>) {
-    const newCity = e.target.value;
-    setSelectedCity(newCity);
-    onCityChange(newCity);
+    const ct = e.target.value;
+
+    setSelectedCity(ct);
+    setSelectedPostal("");
+
+    onCityChange(ct);
+
+    if (selectedState && ct && typedData[selectedState][ct]) {
+      setPostalList(typedData[selectedState][ct].postal_codes);
+    } else {
+      setPostalList([]);
+    }
+  }
+
+  function handlePostalChange(e: React.ChangeEvent<HTMLSelectElement>) {
+    const pc = e.target.value;
+    setSelectedPostal(pc);
+    onPostalChange(pc);
   }
 
   return (
@@ -71,6 +103,7 @@ export default function LocationSelect({ onStateChange, onCityChange }: Location
       </h2>
 
       <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
+        {/* STATE */}
         <select
           value={selectedState}
           onChange={handleStateChange}
@@ -89,6 +122,7 @@ export default function LocationSelect({ onStateChange, onCityChange }: Location
           ))}
         </select>
 
+        {/* CITY */}
         <select
           value={selectedCity}
           onChange={handleCityChange}
@@ -105,6 +139,27 @@ export default function LocationSelect({ onStateChange, onCityChange }: Location
           {cityList.map((city) => (
             <option key={city} value={city}>
               {city}
+            </option>
+          ))}
+        </select>
+
+        {/* POSTAL CODE */}
+        <select
+          value={selectedPostal}
+          onChange={handlePostalChange}
+          disabled={!selectedCity}
+          style={{
+            padding: "0.65rem",
+            borderRadius: "0.5rem",
+            border: "1px solid rgba(0,0,0,0.15)",
+            fontSize: "0.95rem",
+            opacity: selectedCity ? 1 : 0.5
+          }}
+        >
+          <option value="">Select Postal Code</option>
+          {postalList.map((pc) => (
+            <option key={pc} value={pc}>
+              {pc}
             </option>
           ))}
         </select>

@@ -1,0 +1,8248 @@
+{
+  "AB": {
+    "Beaumont": {
+      "count": 10,
+      "postal_codes": [
+        "T4X 0B6",
+        "T4X 1E4",
+        "T4X 1E5",
+        "T4X 1E6",
+        "T4X 1T8"
+      ]
+    },
+    "Downtown": {
+      "count": 1,
+      "postal_codes": [
+        "T5K"
+      ]
+    },
+    "East Edmonton": {
+      "count": 1,
+      "postal_codes": [
+        "T5J 2Z2"
+      ]
+    },
+    "Eaux Claires": {
+      "count": 1,
+      "postal_codes": [
+        "T5Z"
+      ]
+    },
+    "EdMonton": {
+      "count": 2,
+      "postal_codes": [
+        "T5T 4K5",
+        "T5Y 0S5"
+      ]
+    },
+    "Edmonton": {
+      "count": 2631,
+      "postal_codes": [
+        "T5A",
+        "T5A 0A1",
+        "T5A 0A4",
+        "T5A 0J8",
+        "T5A 0L4",
+        "T5A 0R4",
+        "T5A 1A6",
+        "T5A 1B1",
+        "T5A 1C5",
+        "T5A 2L9",
+        "T5A 3L4",
+        "T5A 3L7",
+        "T5A 3P3",
+        "T5A 4H2",
+        "T5A 4L2",
+        "T5A 4L8",
+        "T5A 4N2",
+        "T5A 4N3",
+        "T5A 4V9",
+        "T5A 4Z8",
+        "T5A 5A1",
+        "T5A 5B9",
+        "T5A 5C5",
+        "T5A 5C9",
+        "T5A 5G8",
+        "T5A 5J6",
+        "T5B 0C1",
+        "T5B 0G1",
+        "T5B 0G4",
+        "T5B 0R6",
+        "T5B 0R7",
+        "T5B 0R8",
+        "T5B 0S1",
+        "T5B 0S4",
+        "T5B 0S5",
+        "T5B 0S7",
+        "T5B 0S8",
+        "T5B 0S9",
+        "T5B 0T3",
+        "T5B 0T5",
+        "T5B 0T9",
+        "T5B 0V1",
+        "T5B 1K4",
+        "T5B 1K8",
+        "T5B 2Z1",
+        "T5B 3C2",
+        "T5B 3K1",
+        "T5B 3M9",
+        "T5B 3Z3",
+        "T5B 4H2",
+        "T5B 4H5",
+        "T5B 4W4",
+        "T5C",
+        "T5C 0A4",
+        "T5C 0B1",
+        "T5C 2A7",
+        "T5C 2R7",
+        "T5C 3C8",
+        "T5C 3E1",
+        "T5C 3E6",
+        "T5E",
+        "T5E 0B8",
+        "T5E 0N3",
+        "T5E 0Y2",
+        "T5E 1J8",
+        "T5E 1K5",
+        "T5E 1Y8",
+        "T5E 2C2",
+        "T5E 2H4",
+        "T5E 2T1",
+        "T5E 2T2",
+        "T5E 2T5",
+        "T5E 4C1",
+        "T5E 4C2",
+        "T5E 4C3",
+        "T5E 4C4",
+        "T5E 4C9",
+        "T5E 4E1",
+        "T5E 4E2",
+        "T5E 4G6",
+        "T5E 4H5",
+        "T5E 5P0",
+        "T5E 5R8",
+        "T5E 5S7",
+        "T5E 6C1",
+        "T5E 6H7",
+        "T5E 6J4",
+        "T5E 6K9",
+        "T5E 6N2",
+        "T5E 6W1",
+        "T5G",
+        "T5G 0A2",
+        "T5G 0A7",
+        "T5G 0A8",
+        "T5G 0A9",
+        "T5G 0B3",
+        "T5G 0B6",
+        "T5G 0E1",
+        "T5G 0E7",
+        "T5G 0H6",
+        "T5G 0N3",
+        "T5G 0N4",
+        "T5G 0N5",
+        "T5G 0N8",
+        "T5G 0N9",
+        "T5G 0P2",
+        "T5G 0P4",
+        "T5G 0P5",
+        "T5G 0P7",
+        "T5G 0R4",
+        "T5G 0W6",
+        "T5G 0W8",
+        "T5G 0X1",
+        "T5G 0X4",
+        "T5G 0X9",
+        "T5G 1L3",
+        "T5G 1L9",
+        "T5G 1Z6",
+        "T5G 2J2",
+        "T5G 2R1",
+        "T5G 2T7",
+        "T5G 2X4",
+        "T5G 2X7",
+        "T5G 2Y5",
+        "T5G 3A1",
+        "T5G 3A6",
+        "T5G 3E3",
+        "T5G 3E8",
+        "T5G 3G2",
+        "T5G 3G4",
+        "T5G 3H6",
+        "T5H",
+        "T5H 0C8",
+        "T5H 0E6",
+        "T5H 0E7",
+        "T5H 0L9",
+        "T5H 0M2",
+        "T5H 0N7",
+        "T5H 0N8",
+        "T5H 0T8",
+        "T5H 0V4",
+        "T5H 0V6",
+        "T5H 0W3",
+        "T5H 0W7",
+        "T5H 0X7",
+        "T5H 0X8",
+        "T5H 0X9",
+        "T5H 0Y3",
+        "T5H 0Z7",
+        "T5H 1B8",
+        "T5H 1P6",
+        "T5H 1S5",
+        "T5H 1Y3",
+        "T5H 2B2",
+        "T5H 2E2",
+        "T5H 2E3",
+        "T5H 2E4",
+        "T5H 2G7",
+        "T5H 2L2",
+        "T5H 2L4",
+        "T5H 2L5",
+        "T5H 2L6",
+        "T5H 2L7",
+        "T5H 2L9",
+        "T5H 2M3",
+        "T5H 2N7",
+        "T5H 2N8",
+        "T5H 2N9",
+        "T5H 2P6",
+        "T5H 2P7",
+        "T5H 2R6",
+        "T5H 2R8",
+        "T5H 2S1",
+        "T5H 2S3",
+        "T5H 2S4",
+        "T5H 2S6",
+        "T5H 2S7",
+        "T5H 2T3",
+        "T5H 2V7",
+        "T5H 2W1",
+        "T5H 2W9",
+        "T5H 2X5",
+        "T5H 2Y5",
+        "T5H 3B1",
+        "T5H 3B2",
+        "T5H 3B5",
+        "T5H 3G2",
+        "T5H 3J6",
+        "T5H 3J7",
+        "T5H 3K6",
+        "T5H 3P5",
+        "T5H 3P7",
+        "T5H 3S2",
+        "T5H 3S4",
+        "T5H 3S8",
+        "T5H 3T8",
+        "T5H 3V5",
+        "T5H 3W1",
+        "T5H 4A7",
+        "T5H 4B9",
+        "T5H 4J1",
+        "T5H 4K1",
+        "T5H 4K8",
+        "T5H 4L4",
+        "T5H 4M5",
+        "T5J",
+        "T5J 0A3",
+        "T5J 0A5",
+        "T5J 0B3",
+        "T5J 0B6",
+        "T5J 0B9",
+        "T5J 0C3",
+        "T5J 0C5",
+        "T5J 0C8",
+        "T5J 0E7",
+        "T5J 0G3",
+        "T5J 0G7",
+        "T5J 0H3",
+        "T5J 0J4",
+        "T5J 0J7",
+        "T5J 0K9",
+        "T5J 0L2",
+        "T5J 0L4",
+        "T5J 0L5",
+        "T5J 0L9",
+        "T5J 0M1",
+        "T5J 0N6",
+        "T5J 0N7",
+        "T5J 0N8",
+        "T5J 0P5",
+        "T5J 0P6",
+        "T5J 0R5",
+        "T5J 0R6",
+        "T5J 0T4",
+        "T5J 0V6",
+        "T5J 0X7",
+        "T5J 0Y8",
+        "T5J 0Z1",
+        "T5J 0Z9",
+        "T5J 1A7",
+        "T5J 1A9",
+        "T5J 1B8",
+        "T5J 1B9",
+        "T5J 1C9",
+        "T5J 1E2",
+        "T5J 1E3",
+        "T5J 1E6",
+        "T5J 1G1",
+        "T5J 1G3",
+        "T5J 1H7",
+        "T5J 1H8",
+        "T5J 1J1",
+        "T5J 1J2",
+        "T5J 1J4",
+        "T5J 1J5",
+        "T5J 1K6",
+        "T5J 1L7",
+        "T5J 1L9",
+        "T5J 1M1",
+        "T5J 1M7",
+        "T5J 1N2",
+        "T5J 1N7",
+        "T5J 1P1",
+        "T5J 1P7",
+        "T5J 1R2",
+        "T5J 1R3",
+        "T5J 1R9",
+        "T5J 1S5",
+        "T5J 1V7",
+        "T5J 1V9",
+        "T5J 1W4",
+        "T5J 1W5",
+        "T5J 1X8",
+        "T5J 1Y5",
+        "T5J 1Y6",
+        "T5J 1Y7",
+        "T5J 1Y8",
+        "T5J 1Z3",
+        "T5J 1Z4",
+        "T5J 1Z7",
+        "T5J 2A3",
+        "T5J 2A4",
+        "T5J 2A5",
+        "T5J 2A7",
+        "T5J 2B1",
+        "T5J 2B3",
+        "T5J 2B8",
+        "T5J 2C1",
+        "T5J 2C3",
+        "T5J 2E7",
+        "T5J 2G7",
+        "T5J 2J2",
+        "T5J 2R7",
+        "T5J 2V4",
+        "T5J 2W2",
+        "T5J 2W4",
+        "T5J 2W9",
+        "T5J 2Y7",
+        "T5J 2Y8",
+        "T5J 2Y9",
+        "T5J 2Z1",
+        "T5J 2Z2",
+        "T5J 3B1",
+        "T5J 3C6",
+        "T5J 3C8",
+        "T5J 3E4",
+        "T5J 3E8",
+        "T5J 3E9",
+        "T5J 3G2",
+        "T5J 3J5",
+        "T5J 3K1",
+        "T5J 3L5",
+        "T5J 3L9",
+        "T5J 3M1",
+        "T5J 3M5",
+        "T5J 3N3",
+        "T5J 3N6",
+        "T5J 3N8",
+        "T5J 3N9",
+        "T5J 3P1",
+        "T5J 3P4",
+        "T5J 3R8",
+        "T5J 3S2",
+        "T5J 3S4",
+        "T5J 3S8",
+        "T5J 3S9",
+        "T5J 3Z1",
+        "T5J 4A1",
+        "T5J 4B7",
+        "T5J 4C5",
+        "T5J 4H5",
+        "T5J 4K2",
+        "T5J 4R5",
+        "T5J 4S2",
+        "T5J 4V7",
+        "T5J 4X1",
+        "T5J 4X6",
+        "T5J 4X7",
+        "T5J 4X9",
+        "T5J 4Y8",
+        "T5J 4Z5",
+        "T5J 5B3",
+        "T5J 5C6",
+        "T5J 5E7",
+        "T5J 5G5",
+        "T5J 5G8",
+        "T5J 5G9",
+        "T5J 5H7",
+        "T5K",
+        "T5K 0A5",
+        "T5K 0C1",
+        "T5K 0E7",
+        "T5K 0G6",
+        "T5K 0J7",
+        "T5K 0K6",
+        "T5K 0L5",
+        "T5K 0L8",
+        "T5K 0L9",
+        "T5K 0M1",
+        "T5K 0M8",
+        "T5K 0M9",
+        "T5K 0N2",
+        "T5K 0N3",
+        "T5K 0N4",
+        "T5K 0N7",
+        "T5K 0N8",
+        "T5K 0P1",
+        "T5K 0R8",
+        "T5K 0T2",
+        "T5K 0T3",
+        "T5K 0W9",
+        "T5K 0Y1",
+        "T5K 0Z6",
+        "T5K 1B2",
+        "T5K 1C4",
+        "T5K 1G5",
+        "T5K 1H5",
+        "T5K 1H6",
+        "T5K 1L2",
+        "T5K 1M1",
+        "T5K 1M9",
+        "T5K 1N4",
+        "T5K 1N9",
+        "T5K 1R7",
+        "T5K 1S7",
+        "T5K 1T3",
+        "T5K 1V4",
+        "T5K 1V6",
+        "T5K 1W3",
+        "T5K 1X3",
+        "T5K 1X4",
+        "T5K 1X5",
+        "T5K 2A7",
+        "T5K 2G2",
+        "T5K 2K3",
+        "T5K 2L9",
+        "T5K 2N2",
+        "T5K 2N8",
+        "T5K 2P1",
+        "T5K 2P3",
+        "T5K 2P5",
+        "T5K 2R1",
+        "T5K 2S1",
+        "T5K 2S2",
+        "T5K 2S5",
+        "T5K 2S7",
+        "T5K 2T7",
+        "T5K 2T8",
+        "T5K 2V2",
+        "T5K 2V3",
+        "T5K 2W4",
+        "T5K 2W9",
+        "T5K 2X4",
+        "T5K 2Y9",
+        "T5L",
+        "T5L 0M5",
+        "T5L 0T6",
+        "T5L 1A3",
+        "T5L 1A9",
+        "T5L 1B4",
+        "T5L 1B7",
+        "T5L 1B8",
+        "T5L 1R9",
+        "T5L 2J9",
+        "T5L 2K3",
+        "T5L 2K4",
+        "T5L 2L3",
+        "T5L 2L4",
+        "T5L 2L8",
+        "T5L 2M3",
+        "T5L 2M5",
+        "T5L 2T3",
+        "T5L 2X4",
+        "T5L 3C2",
+        "T5L 3E8",
+        "T5L 3P9",
+        "T5L 4C2",
+        "T5L 4G5",
+        "T5L 4H3",
+        "T5L 4H5",
+        "T5L 4H6",
+        "T5L 4K4",
+        "T5L 4N4",
+        "T5L 4P3",
+        "T5L 4X5",
+        "T5L 4X6",
+        "T5L 4Y4",
+        "T5L 4Y5",
+        "T5L 4Y8",
+        "T5L 4Z6",
+        "T5L 4Z8",
+        "T5L 5B5",
+        "T5L 5C7",
+        "T5L 5E7",
+        "T5L 5E8",
+        "T5L 5E9",
+        "T5L 5G8",
+        "T5L 5H1",
+        "T5M",
+        "T5M 0H1",
+        "T5M 0H2",
+        "T5M 0H3",
+        "T5M 0H4",
+        "T5M 0J5",
+        "T5M 1Z1",
+        "T5M 1Z2",
+        "T5M 2N6",
+        "T5M 2P5",
+        "T5M 2P7",
+        "T5M 2P8",
+        "T5M 2P9",
+        "T5M 2R1",
+        "T5M 2R5",
+        "T5M 2T8",
+        "T5M 2V8",
+        "T5M 2Z7",
+        "T5M 3B8",
+        "T5M 3J9",
+        "T5M 3L7",
+        "T5M 4A4",
+        "T5M 4A8",
+        "T5M 4B7",
+        "T5M 4E7",
+        "T5M 4G2",
+        "T5M 4G3",
+        "T5M 4G5",
+        "T5N",
+        "T5N 0C5",
+        "T5N 0L8",
+        "T5N 0L9",
+        "T5N 0M1",
+        "T5N 0M2",
+        "T5N 0M3",
+        "T5N 0M4",
+        "T5N 0S8",
+        "T5N 0Z1",
+        "T5N 1L2",
+        "T5N 1N9",
+        "T5N 1P3",
+        "T5N 1P5",
+        "T5N 1P6",
+        "T5N 1P9",
+        "T5N 1R2",
+        "T5N 1R5",
+        "T5N 1R7",
+        "T5N 1R8",
+        "T5N 1R9",
+        "T5N 1S3",
+        "T5N 1S5",
+        "T5N 1S7",
+        "T5N 2B1",
+        "T5N 2P7",
+        "T5N 3J8",
+        "T5N 3K3",
+        "T5N 3N3",
+        "T5N 3N7",
+        "T5N 3P5",
+        "T5N 3R4",
+        "T5N 3S4",
+        "T5N 3S5",
+        "T5N 3V9",
+        "T5N 3W6",
+        "T5N 3W9",
+        "T5N 3Y5",
+        "T5N 3Z9",
+        "T5N 4B2",
+        "T5N 4J2",
+        "T5P 0A9",
+        "T5P 0L1",
+        "T5P 0P3",
+        "T5P 0Y5",
+        "T5P 1B7",
+        "T5P 1C2",
+        "T5P 1L1",
+        "T5P 2P8",
+        "T5P 2S1",
+        "T5P 2S7",
+        "T5P 2X7",
+        "T5P 3M7",
+        "T5P 3N4",
+        "T5P 3W3",
+        "T5P 3W4",
+        "T5P 3Y1",
+        "T5P 3Y2",
+        "T5P 3Y4",
+        "T5P 3Z1",
+        "T5P 3Z3",
+        "T5P 3Z4",
+        "T5P 3Z5",
+        "T5P 3Z7",
+        "T5P 3Z8",
+        "T5P 3Z9",
+        "T5P 4A3",
+        "T5P 4A9",
+        "T5P 4B3",
+        "T5P 4C3",
+        "T5P 4C8",
+        "T5P 4J7",
+        "T5P 4K8",
+        "T5P 4M8",
+        "T5P 4M9",
+        "T5P 4P3",
+        "T5P 4P4",
+        "T5P 4P6",
+        "T5P 4R5",
+        "T5P 4S2",
+        "T5P 4T2",
+        "T5P 4V4",
+        "T5P 4W1",
+        "T5P 4W2",
+        "T5P 4Y2",
+        "T5P 4Y5",
+        "T5P 4Z3",
+        "T5R",
+        "T5R 0M7",
+        "T5R 0N7",
+        "T5R 1B6",
+        "T5R 1B8",
+        "T5R 1Y5",
+        "T5R 3Z2",
+        "T5R 4E9",
+        "T5R 4G7",
+        "T5R 4K7",
+        "T5R 5W9",
+        "T5R 5Y2",
+        "T5R 5Z1",
+        "T5S",
+        "T5S 0A2",
+        "T5S 0B4",
+        "T5S 0C2",
+        "T5S 0C7",
+        "T5S 0G5",
+        "T5S 1A7",
+        "T5S 1B3",
+        "T5S 1B4",
+        "T5S 1B5",
+        "T5S 1E3",
+        "T5S 1E5",
+        "T5S 1H5",
+        "T5S 1K6",
+        "T5S 1K9",
+        "T5S 1L1",
+        "T5S 1L8",
+        "T5S 1P3",
+        "T5S 1S3",
+        "T5S 1S6",
+        "T5S 1S9",
+        "T5S 1T2",
+        "T5S 1T3",
+        "T5S 1T9",
+        "T5S 2B8",
+        "T5S 2E7",
+        "T5S 2G5",
+        "T5S 2H7",
+        "T5S 2J1",
+        "T5S 2N2",
+        "T5S 2N7",
+        "T5S 2S2",
+        "T5S 2T1",
+        "T5S 2V2",
+        "T5S 2V5",
+        "T5S 2V9",
+        "T5S 2X1",
+        "T5S 2X6",
+        "T5T",
+        "T5T 0W5",
+        "T5T 1K8",
+        "T5T 1L6",
+        "T5T 1S9",
+        "T5T 1T9",
+        "T5T 1V1",
+        "T5T 1Y7",
+        "T5T 2K4",
+        "T5T 2K6",
+        "T5T 2P4",
+        "T5T 2P7",
+        "T5T 2Y5",
+        "T5T 3H4",
+        "T5T 3J7",
+        "T5T 3X1",
+        "T5T 4C8",
+        "T5T 4J2",
+        "T5T 4J5",
+        "T5T 4K2",
+        "T5T 4K3",
+        "T5T 4K5",
+        "T5T 4M2",
+        "T5T 4V3",
+        "T5T 4V4",
+        "T5T 4W5",
+        "T5T 5L4",
+        "T5T 5L5",
+        "T5T 5L9",
+        "T5T 5R5",
+        "T5T 5R6",
+        "T5T 5T8",
+        "T5T 5W8",
+        "T5T 5X1",
+        "T5T 5Y1",
+        "T5T 6A4",
+        "T5T 6G7",
+        "T5T 6H4",
+        "T5T 6J1",
+        "T5T 6J6",
+        "T5T 6L8",
+        "T5T 6N8",
+        "T5T 6P1",
+        "T5T 7C5",
+        "T5V",
+        "T5V 1A1",
+        "T5V 1B8",
+        "T5V 1H9",
+        "T5V 1L3",
+        "T5V 1M8",
+        "T5V 1P2",
+        "T5V 1S5",
+        "T5V 1T8",
+        "T5W 0N9",
+        "T5W 0P1",
+        "T5W 0P2",
+        "T5W 0Z3",
+        "T5W 0Z4",
+        "T5W 0Z6",
+        "T5W 0Z8",
+        "T5W 0Z9",
+        "T5W 1A2",
+        "T5W 1A3",
+        "T5W 1A4",
+        "T5W 1A6",
+        "T5W 1A8",
+        "T5W 1B2",
+        "T5W 1B3",
+        "T5W 1B4",
+        "T5W 1C4",
+        "T5W 1G6",
+        "T5W 2Y4",
+        "T5W 4K3",
+        "T5X 0C2",
+        "T5X 0C7",
+        "T5X 2E3",
+        "T5X 2R5",
+        "T5X 3C8",
+        "T5X 3N5",
+        "T5X 3N7",
+        "T5X 3Y7",
+        "T5X 4H7",
+        "T5X 5E5",
+        "T5X 5M3",
+        "T5X 5M8",
+        "T5X 5V3",
+        "T5X 5X8",
+        "T5X 6A9",
+        "T5X 6C3",
+        "T5X 6E4",
+        "T5Y",
+        "T5Y 0C1",
+        "T5Y 0C8",
+        "T5Y 0L2",
+        "T5Y 0L4",
+        "T5Y 0M1",
+        "T5Y 0P5",
+        "T5Y 0S4",
+        "T5Y 0S5",
+        "T5Y 1Y7",
+        "T5Y 2B6",
+        "T5Y 2M4",
+        "T5Y 2N2",
+        "T5Y 2V4",
+        "T5Y 2W1",
+        "T5Y 2W7",
+        "T5Y 2Z2",
+        "T5Y 3B2",
+        "T5Y 3B5",
+        "T5Y 3E1",
+        "T5Y 3E5",
+        "T5Y 3E7",
+        "T5Y 3K8",
+        "T5Y 3Y2",
+        "T5Y 6L6",
+        "T5Z 0G3",
+        "T5Z 2K9",
+        "T5Z 2X4",
+        "T5Z 3C8",
+        "T5Z 3L2",
+        "T5Z 3L3",
+        "T5Z 3L7",
+        "T5Z 3P1",
+        "T5Z 3S3",
+        "T5Z 3S6",
+        "T5Z 3X4",
+        "T5Z 3X9",
+        "T5Z 3Z8",
+        "T6A",
+        "T6A 0G7",
+        "T6A 0G9",
+        "T6A 0J1",
+        "T6A 0J2",
+        "T6A 0S4",
+        "T6A 1E9",
+        "T6A 1H5",
+        "T6A 1J1",
+        "T6A 1S6",
+        "T6A 2C1",
+        "T6A 2T3",
+        "T6A 3G3",
+        "T6A 3X5",
+        "T6A 3Y1",
+        "T6A 3Y8",
+        "T6A 3Z1",
+        "T6A 3Z5",
+        "T6A 3Z7",
+        "T6B",
+        "T6B 0A5",
+        "T6B 0B3",
+        "T6B 0G2",
+        "T6B 0G3",
+        "T6B 0P2",
+        "T6B 1E6",
+        "T6B 1G1",
+        "T6B 2E7",
+        "T6B 2E8",
+        "T6B 2L5",
+        "T6B 2N7",
+        "T6B 2W8",
+        "T6B 2Y7",
+        "T6B 3A1",
+        "T6B 3B6",
+        "T6B 3B9",
+        "T6B 3E3",
+        "T6B 3K9",
+        "T6B 3V1",
+        "T6C",
+        "T6C 0K1",
+        "T6C 0K2",
+        "T6C 0K3",
+        "T6C 0T9",
+        "T6C 0X9",
+        "T6C 0Y4",
+        "T6C 0Z2",
+        "T6C 0Z3",
+        "T6C 0Z4",
+        "T6C 0Z5",
+        "T6C 0Z7",
+        "T6C 0Z8",
+        "T6C 1A1",
+        "T6C 1M1",
+        "T6C 1Z1",
+        "T6C 1Z5",
+        "T6C 2H4",
+        "T6C 3B4",
+        "T6C 3J1",
+        "T6C 3N1",
+        "T6C 3P4",
+        "T6C 3P9",
+        "T6C 4A5",
+        "T6C 4A6",
+        "T6C 4A7",
+        "T6C 4B2",
+        "T6C 4E3",
+        "T6C 4L8",
+        "T6E",
+        "T6E 0A7",
+        "T6E 0A8",
+        "T6E 0C3",
+        "T6E 0C7",
+        "T6E 0E1",
+        "T6E 0E3",
+        "T6E 0E4",
+        "T6E 0G6",
+        "T6E 0G7",
+        "T6E 0H1",
+        "T6E 0M2",
+        "T6E 0M3",
+        "T6E 0P5",
+        "T6E 0V6",
+        "T6E 0V7",
+        "T6E 0Z2",
+        "T6E 0Z3",
+        "T6E 0Z6",
+        "T6E 1K6",
+        "T6E 1R7",
+        "T6E 1T4",
+        "T6E 1T8",
+        "T6E 1V1",
+        "T6E 1W6",
+        "T6E 1W7",
+        "T6E 1W9",
+        "T6E 1X2",
+        "T6E 1X3",
+        "T6E 1Y9",
+        "T6E 1Z1",
+        "T6E 1Z2",
+        "T6E 1Z3",
+        "T6E 1Z4",
+        "T6E 1Z5",
+        "T6E 1Z8",
+        "T6E 1Z9",
+        "T6E 2A1",
+        "T6E 2A2",
+        "T6E 2A3",
+        "T6E 2A4",
+        "T6E 2A6",
+        "T6E 2A7",
+        "T6E 2A8",
+        "T6E 2B2",
+        "T6E 2B3",
+        "T6E 2C6",
+        "T6E 2C7",
+        "T6E 2S5",
+        "T6E 3N5",
+        "T6E 3N6",
+        "T6E 3S9",
+        "T6E 3T8",
+        "T6E 3V2",
+        "T6E 3V4",
+        "T6E 3W3",
+        "T6E 3X8",
+        "T6E 3Y8",
+        "T6E 3Y9",
+        "T6E 4A4",
+        "T6E 4A5",
+        "T6E 4B1",
+        "T6E 4B2",
+        "T6E 4B4",
+        "T6E 4B8",
+        "T6E 4B9",
+        "T6E 4C5",
+        "T6E 4C8",
+        "T6E 4E2",
+        "T6E 4E3",
+        "T6E 4E4",
+        "T6E 4E5",
+        "T6E 4E6",
+        "T6E 4E7",
+        "T6E 4P4",
+        "T6E 4R5",
+        "T6E 4Z4",
+        "T6E 5A9",
+        "T6E 5B8",
+        "T6E 5C3",
+        "T6E 5E8",
+        "T6E 5G2",
+        "T6E 5G3",
+        "T6E 5H5",
+        "T6E 5J6",
+        "T6E 5L5",
+        "T6E 5L8",
+        "T6E 5P2",
+        "T6E 5R2",
+        "T6E 5S1",
+        "T6E 5S8",
+        "T6E 5T5",
+        "T6E 5T7",
+        "T6E 5V6",
+        "T6E 5W8",
+        "T6E 5X4",
+        "T6E 5X5",
+        "T6E 5X6",
+        "T6E 5X8",
+        "T6E 5Y4",
+        "T6E 5Y8",
+        "T6E 6A2",
+        "T6E 6A4",
+        "T6E 6B8",
+        "T6E 6C7",
+        "T6E 6E8",
+        "T6E 6H6",
+        "T6E 6J7",
+        "T6E 6J8",
+        "T6E 6J9",
+        "T6E 6M2",
+        "T6E 6N8",
+        "T6E 6P4",
+        "T6E 6P5",
+        "T6E 6S4",
+        "T6E 6T2",
+        "T6E 6T3",
+        "T6E 6V2",
+        "T6E 6W3",
+        "T6G",
+        "T6G 0J9",
+        "T6G 0K1",
+        "T6G 0M2",
+        "T6G 0T2",
+        "T6G 0W8",
+        "T6G 0X1",
+        "T6G 0X8",
+        "T6G 0Z1",
+        "T6G 1B8",
+        "T6G 1B9",
+        "T6G 1C3",
+        "T6G 1E2",
+        "T6G 1E3",
+        "T6G 1E5",
+        "T6G 1E7",
+        "T6G 1E8",
+        "T6G 1E9",
+        "T6G 1J7",
+        "T6G 1K1",
+        "T6G 1K4",
+        "T6G 1K5",
+        "T6G 1K6",
+        "T6G 1K7",
+        "T6G 1K8",
+        "T6G 1N4",
+        "T6G 1P7",
+        "T6G 2C5",
+        "T6G 2C7",
+        "T6G 2C8",
+        "T6G 2E1",
+        "T6G 2G9",
+        "T6G 2J2",
+        "T6G 2J7",
+        "T6G 2J8",
+        "T6G 2L5",
+        "T6G 2L7",
+        "T6G 2L8",
+        "T6G 2L9",
+        "T6G 2N2",
+        "T6G 2S1",
+        "T6G 2S4",
+        "T6H",
+        "T6H 0K4",
+        "T6H 0K5",
+        "T6H 0K8",
+        "T6H 0L4",
+        "T6H 1L2",
+        "T6H 1M2",
+        "T6H 1P2",
+        "T6H 2H3",
+        "T6H 2J3",
+        "T6H 2J4",
+        "T6H 2K2",
+        "T6H 2K3",
+        "T6H 2K7",
+        "T6H 2K8",
+        "T6H 2L6",
+        "T6H 2L7",
+        "T6H 2S9",
+        "T6H 2V3",
+        "T6H 3C1",
+        "T6H 3G1",
+        "T6H 3G4",
+        "T6H 4J8",
+        "T6H 4J9",
+        "T6H 4K1",
+        "T6H 4K4",
+        "T6H 4M6",
+        "T6H 4M7",
+        "T6H 4P8",
+        "T6H 4R5",
+        "T6H 4R7",
+        "T6H 4X9",
+        "T6H 5C2",
+        "T6H 5C3",
+        "T6H 5H4",
+        "T6H 5H5",
+        "T6H 5K3",
+        "T6H 5K4",
+        "T6H 5P9",
+        "T6H 5T1",
+        "T6H 5W6",
+        "T6H 5X6",
+        "T6H 5Z4",
+        "T6H 6A1",
+        "T6H 6A2",
+        "T6J",
+        "T6J 0R4",
+        "T6J 0R8",
+        "T6J 0W3",
+        "T6J 1X3",
+        "T6J 2G8",
+        "T6J 2S3",
+        "T6J 2S6",
+        "T6J 2X8",
+        "T6J 3B2",
+        "T6J 3T5",
+        "T6J 4C8",
+        "T6J 4G2",
+        "T6J 4R6",
+        "T6J 4T3",
+        "T6J 4V9",
+        "T6J 5E5",
+        "T6J 5H2",
+        "T6J 5J6",
+        "T6J 5J7",
+        "T6J 5M5",
+        "T6J 5M8",
+        "T6J 5P4",
+        "T6J 5P5",
+        "T6J 5R4",
+        "T6J 5X8",
+        "T6J 6L7",
+        "T6J 6P3",
+        "T6J 6P6",
+        "T6J 6P9",
+        "T6J 6R5",
+        "T6J 6R7",
+        "T6J 6S6",
+        "T6J 6S7",
+        "T6J 6V1",
+        "T6J 6V4",
+        "T6J 6V7",
+        "T6J 6Y6",
+        "T6J 6Y8",
+        "T6J 7A2",
+        "T6J 7A9",
+        "T6J 7B5",
+        "T6J 7B9",
+        "T6J 7C1",
+        "T6J 7C2",
+        "T6J 7H8",
+        "T6K 2N2",
+        "T6K 3L6",
+        "T6K 3N5",
+        "T6K 3S4",
+        "T6K 3X9",
+        "T6K 4A2",
+        "T6K 4A9",
+        "T6K 4B4",
+        "T6K 4B5",
+        "T6K 4B6",
+        "T6K 4C8",
+        "T6K 4E8",
+        "T6L",
+        "T6L 2H1",
+        "T6L 3Z7",
+        "T6L 5N3",
+        "T6L 5W9",
+        "T6L 5Z8",
+        "T6L 6N2",
+        "T6L 6N3",
+        "T6L 6N4",
+        "T6L 6N5",
+        "T6L 6W7",
+        "T6L 6X2",
+        "T6L 6X4",
+        "T6L 6Y7",
+        "T6L 7A7",
+        "T6L 7B5",
+        "T6L 7B9",
+        "T6L 7C9",
+        "T6L 7E8",
+        "T6L 7G4",
+        "T6M 0L9",
+        "T6M 0M8",
+        "T6M 0T9",
+        "T6M 1G9",
+        "T6M 1M4",
+        "T6M 2W8",
+        "T6N",
+        "T6N 0A1",
+        "T6N 0A5",
+        "T6N 0A8",
+        "T6N 0B1",
+        "T6N 0B4",
+        "T6N 0B6",
+        "T6N 0B8",
+        "T6N 1A2",
+        "T6N 1B3",
+        "T6N 1B5",
+        "T6N 1E4",
+        "T6N 1H9",
+        "T6N 1J6",
+        "T6N 1J7",
+        "T6N 1K2",
+        "T6N 1K5",
+        "T6N 1K7",
+        "T6N 1K8",
+        "T6N 1L2",
+        "T6N 1L5",
+        "T6N 1M1",
+        "T6N 1M3",
+        "T6N 1M5",
+        "T6N 1N2",
+        "T6R",
+        "T6R 0G4",
+        "T6R 0M5",
+        "T6R 0R1",
+        "T6R 0S9",
+        "T6R 0T7",
+        "T6R 1N1",
+        "T6R 2B3",
+        "T6R 2E3",
+        "T6R 2X2",
+        "T6R 3B9",
+        "T6R 3E7",
+        "T6R 3K8",
+        "T6R 3L6",
+        "T6R 3N9",
+        "T6T",
+        "T6T 0B4",
+        "T6T 0C1",
+        "T6T 0C2",
+        "T6T 0E6",
+        "T6T 0G6",
+        "T6T 0G9",
+        "T6T 0R1",
+        "T6T 0Y2",
+        "T6T 1B6",
+        "T6T 1H9",
+        "T6T 1K9",
+        "T6T 1V5",
+        "T6T 2B5",
+        "T6V",
+        "T6V 0C5",
+        "T6V 0T1",
+        "T6V 1A8",
+        "T6V 1B1",
+        "T6V 1C1",
+        "T6V 1E7",
+        "T6V 1G5",
+        "T6V 1J6",
+        "T6V 1K4",
+        "T6V 1P1",
+        "T6V 1W4",
+        "T6W",
+        "T6W 0E9",
+        "T6W 0J6",
+        "T6W 0L0",
+        "T6W 0L7",
+        "T6W 0L8",
+        "T6W 0L9",
+        "T6W 0P1",
+        "T6W 0S4",
+        "T6W 0Z3",
+        "T6W 1A1",
+        "T6W 1A2",
+        "T6W 1A5",
+        "T6W 1A7",
+        "T6W 1A8",
+        "T6W 1S1",
+        "T6W 1S4",
+        "T6W 2B3",
+        "T6W 2K5",
+        "T6W 2P3",
+        "T6W 2P6",
+        "T6W 2Z8",
+        "T6W 3L5",
+        "T6W 3R3",
+        "T6W 3Y9",
+        "T6X",
+        "T6X 0A9",
+        "T6X 0B1",
+        "T6X 0B2",
+        "T6X 0H5",
+        "T6X 0J3",
+        "T6X 0J4",
+        "T6X 0J6",
+        "T6X 0K6",
+        "T6X 0M5",
+        "T6X 0N5",
+        "T6X 0P1",
+        "T6X 0P2",
+        "T6X 0P9",
+        "T6X 0T9",
+        "T6X 0W6",
+        "T6X 0W8",
+        "T6X 1A3",
+        "T6X 1A7",
+        "T6X 1E9",
+        "T6X 1H1",
+        "T6X 1M5",
+        "T6X 1N4",
+        "T6X 1X2",
+        "T6X 2A1",
+        "T6X 2H4",
+        "T6x 2H4",
+        "T7X 3Y3",
+        "T8H 0Z9",
+        "T8H 1S8",
+        "T8V 0Y2",
+        "T9E 0V3"
+      ]
+    },
+    "Enoch": {
+      "count": 2,
+      "postal_codes": [
+        "T7X 3Y3"
+      ]
+    },
+    "NW Edmonton": {
+      "count": 1,
+      "postal_codes": [
+        "T6E 4R5"
+      ]
+    },
+    "Saint Albert": {
+      "count": 14,
+      "postal_codes": [
+        "T8N 1E7",
+        "T8N 1H4",
+        "T8N 3K8",
+        "T8N 4B1",
+        "T8N 4S8",
+        "T8N 5B2",
+        "T8N 5C9",
+        "T8N 5S8",
+        "T8N 6N8",
+        "T8N 7K6"
+      ]
+    },
+    "Sherwood": {
+      "count": 1,
+      "postal_codes": [
+        "T8H 1S8"
+      ]
+    },
+    "Sherwood Park": {
+      "count": 163,
+      "postal_codes": [
+        "T8A",
+        "T8A 0C9",
+        "T8A 0W9",
+        "T8A 0Z1",
+        "T8A 0Z6",
+        "T8A 0Z7",
+        "T8A 1L3",
+        "T8A 2G4",
+        "T8A 2H6",
+        "T8A 3H9",
+        "T8A 3P3",
+        "T8A 3V5",
+        "T8A 3W8",
+        "T8A 3X3",
+        "T8A 3X8",
+        "T8A 4C7",
+        "T8A 4E3",
+        "T8A 4E6",
+        "T8A 4E7",
+        "T8A 4G2",
+        "T8A 4G8",
+        "T8A 4H4",
+        "T8A 4L7",
+        "T8A 4M2",
+        "T8A 4N5",
+        "T8A 4N6",
+        "T8A 4V2",
+        "T8A 4W2",
+        "T8A 4X3",
+        "T8A 4Y6",
+        "T8A 4Y8",
+        "T8A 4Z9",
+        "T8A 5W9",
+        "T8A 5WA",
+        "T8A 6B3",
+        "T8A 6B8",
+        "T8A 6G3",
+        "T8A 6H2",
+        "T8A 6P2",
+        "T8B 0A4",
+        "T8B 1J3",
+        "T8B 1K4",
+        "T8B 1M6",
+        "T8H",
+        "T8H 0A1",
+        "T8H 0A3",
+        "T8H 0K9",
+        "T8H 0L1",
+        "T8H 0M4",
+        "T8H 0N6",
+        "T8H 0P1",
+        "T8H 0P5",
+        "T8H 0W6",
+        "T8H 0Y7",
+        "T8H 0Z9",
+        "T8H 1B4",
+        "T8H 1B5",
+        "T8H 1M1",
+        "T8H 1P3",
+        "T8H 1R4",
+        "T8H 1S8",
+        "T8H 1X1",
+        "T8H 1Y4",
+        "T8H 2A3",
+        "T8H 2A6",
+        "T8H 2A7",
+        "T8H 2C1",
+        "T8H 2C5",
+        "T8H 2G4",
+        "T8H 2G8",
+        "T8H 2G9",
+        "T8H 2K6",
+        "T8H 2W7"
+      ]
+    },
+    "Southeast Edmonton": {
+      "count": 1,
+      "postal_codes": [
+        "T6X 0W6"
+      ]
+    },
+    "St Albert": {
+      "count": 54,
+      "postal_codes": [
+        "T8N 0P5",
+        "T8N 0R1",
+        "T8N 1E4",
+        "T8N 1E5",
+        "T8N 1E6",
+        "T8N 1E7",
+        "T8N 1E8",
+        "T8N 1G3",
+        "T8N 1H4",
+        "T8N 1M9",
+        "T8N 2E7",
+        "T8N 2G4",
+        "T8N 2X1",
+        "T8N 2Y3",
+        "T8N 3B3",
+        "T8N 3V4",
+        "T8N 3X4",
+        "T8N 5B2",
+        "T8N 5B3",
+        "T8N 5C9",
+        "T8N 5E1",
+        "T8N 5E2",
+        "T8N 5H9",
+        "T8N 5J1",
+        "T8N 5J9",
+        "T8N 5S8",
+        "T8N 5T8",
+        "T8N 5Z1",
+        "T8N 6K3",
+        "T8N 6L5",
+        "T8N 6P6",
+        "T8N 7C8"
+      ]
+    },
+    "St. Albert": {
+      "count": 40,
+      "postal_codes": [
+        "T8N",
+        "T8N 1E5",
+        "T8N 1E7",
+        "T8N 1E9",
+        "T8N 1H4",
+        "T8N 2E7",
+        "T8N 2X1",
+        "T8N 2X4",
+        "T8N 2Y3",
+        "T8N 3B3",
+        "T8N 3K8",
+        "T8N 3S6",
+        "T8N 3T6",
+        "T8N 3V3",
+        "T8N 3X4",
+        "T8N 3X6",
+        "T8N 4B1",
+        "T8N 5B1",
+        "T8N 5B2",
+        "T8N 5C9",
+        "T8N 5J9",
+        "T8N 5N6",
+        "T8N 5S8",
+        "T8N 5T8",
+        "T8N 6K3",
+        "T8N 6L5",
+        "T8N 6T9",
+        "T8N 6Z8",
+        "T8N 7C8"
+      ]
+    },
+    "West Edmonton": {
+      "count": 2,
+      "postal_codes": [
+        "T5J 2W8",
+        "T5T 1L6"
+      ]
+    }
+  },
+  "AZ": {
+    "Casa Adobes": {
+      "count": 1,
+      "postal_codes": [
+        "85704"
+      ]
+    },
+    "Casas Adobes": {
+      "count": 1,
+      "postal_codes": [
+        "85741"
+      ]
+    },
+    "Catalina": {
+      "count": 7,
+      "postal_codes": [
+        "85739"
+      ]
+    },
+    "Corona De Tucson": {
+      "count": 1,
+      "postal_codes": [
+        "85641"
+      ]
+    },
+    "Corona de Tucson": {
+      "count": 2,
+      "postal_codes": [
+        "85641"
+      ]
+    },
+    "Drexel Heights": {
+      "count": 1,
+      "postal_codes": [
+        "85746"
+      ]
+    },
+    "Green Valley": {
+      "count": 27,
+      "postal_codes": [
+        "85614"
+      ]
+    },
+    "Marana": {
+      "count": 43,
+      "postal_codes": [
+        "85653",
+        "85658",
+        "85741",
+        "85742",
+        "85743"
+      ]
+    },
+    "Mount Lemmon": {
+      "count": 4,
+      "postal_codes": [
+        "85619"
+      ]
+    },
+    "Oro Valley": {
+      "count": 93,
+      "postal_codes": [
+        "85704",
+        "85737",
+        "85755"
+      ]
+    },
+    "Picture Rocks": {
+      "count": 1,
+      "postal_codes": [
+        "85743"
+      ]
+    },
+    "Sahuarita": {
+      "count": 25,
+      "postal_codes": [
+        "85614",
+        "85629",
+        "85756"
+      ]
+    },
+    "South Tucson": {
+      "count": 2,
+      "postal_codes": [
+        "85713"
+      ]
+    },
+    "TUCSON": {
+      "count": 3,
+      "postal_codes": [
+        "85706",
+        "85718",
+        "85730"
+      ]
+    },
+    "Tucson": {
+      "count": 2892,
+      "postal_codes": [
+        "32246",
+        "85641",
+        "85701",
+        "85702",
+        "85704",
+        "85705",
+        "85706",
+        "85707",
+        "85710",
+        "85711",
+        "85712",
+        "85713",
+        "85714",
+        "85715",
+        "85716",
+        "85718",
+        "85719",
+        "85721",
+        "85724",
+        "85730",
+        "85735",
+        "85737",
+        "85739",
+        "85741",
+        "85742",
+        "85743",
+        "85745",
+        "85746",
+        "85747",
+        "85748",
+        "85749",
+        "85750",
+        "85752",
+        "85755",
+        "85756",
+        "85757"
+      ]
+    },
+    "Tuscon": {
+      "count": 5,
+      "postal_codes": [
+        "85706",
+        "85707",
+        "85712",
+        "85713",
+        "85743"
+      ]
+    },
+    "Vail": {
+      "count": 17,
+      "postal_codes": [
+        "85641"
+      ]
+    },
+    "Valencia West": {
+      "count": 1,
+      "postal_codes": [
+        "85757"
+      ]
+    },
+    "tucson": {
+      "count": 1,
+      "postal_codes": [
+        "85701"
+      ]
+    }
+  },
+  "CA": {
+    "Carpinteria": {
+      "count": 98,
+      "postal_codes": [
+        "93013",
+        "93031",
+        "93190"
+      ]
+    },
+    "Goleta": {
+      "count": 265,
+      "postal_codes": [
+        "93110",
+        "93111",
+        "93117",
+        "93118",
+        "93199"
+      ]
+    },
+    "Isla Vista": {
+      "count": 66,
+      "postal_codes": [
+        "93117"
+      ]
+    },
+    "Montecito": {
+      "count": 29,
+      "postal_codes": [
+        "93108"
+      ]
+    },
+    "Port Hueneme": {
+      "count": 1,
+      "postal_codes": [
+        "93041"
+      ]
+    },
+    "Santa  Barbara": {
+      "count": 1,
+      "postal_codes": [
+        "93105"
+      ]
+    },
+    "Santa Barbara": {
+      "count": 1046,
+      "postal_codes": [
+        "93101",
+        "93102",
+        "93103",
+        "93105",
+        "93106",
+        "93108",
+        "93109",
+        "93110",
+        "93111",
+        "93117",
+        "93121",
+        "93190"
+      ]
+    },
+    "Santa Clara": {
+      "count": 1,
+      "postal_codes": [
+        "95050"
+      ]
+    },
+    "Santa Maria": {
+      "count": 1,
+      "postal_codes": [
+        "93105"
+      ]
+    },
+    "Summerland": {
+      "count": 12,
+      "postal_codes": [
+        "93067",
+        "93108"
+      ]
+    },
+    "Truckee": {
+      "count": 1,
+      "postal_codes": [
+        "96161"
+      ]
+    }
+  },
+  "CO": {
+    "Vail": {
+      "count": 1,
+      "postal_codes": [
+        "81657"
+      ]
+    }
+  },
+  "DE": {
+    "Aston": {
+      "count": 1,
+      "postal_codes": [
+        "19014"
+      ]
+    },
+    "Bellefonte": {
+      "count": 1,
+      "postal_codes": [
+        "19809"
+      ]
+    },
+    "Christiana": {
+      "count": 6,
+      "postal_codes": [
+        "19702",
+        "19713"
+      ]
+    },
+    "Claymont": {
+      "count": 27,
+      "postal_codes": [
+        "19703",
+        "19809"
+      ]
+    },
+    "Elsmere": {
+      "count": 2,
+      "postal_codes": [
+        "19805"
+      ]
+    },
+    "Glen Mills": {
+      "count": 1,
+      "postal_codes": [
+        "19342"
+      ]
+    },
+    "Greenville": {
+      "count": 7,
+      "postal_codes": [
+        "19807"
+      ]
+    },
+    "Hockessin": {
+      "count": 45,
+      "postal_codes": [
+        "19311",
+        "19707"
+      ]
+    },
+    "Marshallton": {
+      "count": 1,
+      "postal_codes": [
+        "19808"
+      ]
+    },
+    "Montchanin": {
+      "count": 2,
+      "postal_codes": [
+        "19710"
+      ]
+    },
+    "New Castle": {
+      "count": 107,
+      "postal_codes": [
+        "19702",
+        "19713",
+        "19720"
+      ]
+    },
+    "Newark": {
+      "count": 170,
+      "postal_codes": [
+        "19702",
+        "19711",
+        "19713",
+        "19717",
+        "19725"
+      ]
+    },
+    "Newport": {
+      "count": 5,
+      "postal_codes": [
+        "19804"
+      ]
+    },
+    "Pike Creek": {
+      "count": 2,
+      "postal_codes": [
+        "19808"
+      ]
+    },
+    "Stanton": {
+      "count": 1,
+      "postal_codes": [
+        "19804"
+      ]
+    },
+    "Talleyville": {
+      "count": 2,
+      "postal_codes": [
+        "19803"
+      ]
+    },
+    "Trolley Square": {
+      "count": 1,
+      "postal_codes": [
+        "19806"
+      ]
+    },
+    "Wilmington": {
+      "count": 705,
+      "postal_codes": [
+        "19703",
+        "19720",
+        "19801",
+        "19802",
+        "19803",
+        "19804",
+        "19805",
+        "19806",
+        "19807",
+        "19808",
+        "19809",
+        "19810"
+      ]
+    },
+    "Wilmington Manor": {
+      "count": 1,
+      "postal_codes": [
+        "19720"
+      ]
+    },
+    "Yorklyn": {
+      "count": 1,
+      "postal_codes": [
+        "19736"
+      ]
+    },
+    "wilmington": {
+      "count": 1,
+      "postal_codes": [
+        "19801"
+      ]
+    }
+  },
+  "FL": {
+    "Apollo Beach": {
+      "count": 50,
+      "postal_codes": [
+        "33572"
+      ]
+    },
+    "BRANDON": {
+      "count": 1,
+      "postal_codes": [
+        "33511"
+      ]
+    },
+    "Balm": {
+      "count": 1,
+      "postal_codes": [
+        "33503"
+      ]
+    },
+    "Bayonet Point": {
+      "count": 2,
+      "postal_codes": [
+        "34667"
+      ]
+    },
+    "Belleair Blf": {
+      "count": 2,
+      "postal_codes": [
+        "33770"
+      ]
+    },
+    "Belleair Bluffs": {
+      "count": 21,
+      "postal_codes": [
+        "33770"
+      ]
+    },
+    "Bradenton": {
+      "count": 1,
+      "postal_codes": [
+        "34211"
+      ]
+    },
+    "Bradenton Beach": {
+      "count": 1,
+      "postal_codes": [
+        "34217"
+      ]
+    },
+    "Brandon": {
+      "count": 369,
+      "postal_codes": [
+        "33510",
+        "33511",
+        "33578",
+        "33619"
+      ]
+    },
+    "CLEARWATER": {
+      "count": 1,
+      "postal_codes": [
+        "33761"
+      ]
+    },
+    "CLEARWATER BEACH": {
+      "count": 1,
+      "postal_codes": [
+        "33767"
+      ]
+    },
+    "Carrollwood": {
+      "count": 3,
+      "postal_codes": [
+        "33618"
+      ]
+    },
+    "Citrus Park": {
+      "count": 2,
+      "postal_codes": [
+        "33625",
+        "33626"
+      ]
+    },
+    "Clearwater": {
+      "count": 803,
+      "postal_codes": [
+        "33603",
+        "33755",
+        "33756",
+        "33759",
+        "33760",
+        "33761",
+        "33762",
+        "33763",
+        "33764",
+        "33765",
+        "33767",
+        "33769",
+        "33770",
+        "33771",
+        "33778",
+        "34619",
+        "34695",
+        "34698"
+      ]
+    },
+    "Clearwater Beach": {
+      "count": 83,
+      "postal_codes": [
+        "33767"
+      ]
+    },
+    "Clearwater/ Countryside": {
+      "count": 1,
+      "postal_codes": [
+        "33761"
+      ]
+    },
+    "Dade City": {
+      "count": 3,
+      "postal_codes": [
+        "33525"
+      ]
+    },
+    "Dover": {
+      "count": 9,
+      "postal_codes": [
+        "33527",
+        "33584"
+      ]
+    },
+    "Dunedin": {
+      "count": 233,
+      "postal_codes": [
+        "33755",
+        "34697",
+        "34698"
+      ]
+    },
+    "Gibsonton": {
+      "count": 23,
+      "postal_codes": [
+        "33534"
+      ]
+    },
+    "Greater Carrollwood": {
+      "count": 1,
+      "postal_codes": [
+        "33618"
+      ]
+    },
+    "Greater Northdale": {
+      "count": 2,
+      "postal_codes": [
+        "33624"
+      ]
+    },
+    "Gulfport": {
+      "count": 63,
+      "postal_codes": [
+        "33707"
+      ]
+    },
+    "HUdson": {
+      "count": 1,
+      "postal_codes": [
+        "34667"
+      ]
+    },
+    "Hernando Bch": {
+      "count": 1,
+      "postal_codes": [
+        "34607"
+      ]
+    },
+    "Hernando Beach": {
+      "count": 13,
+      "postal_codes": [
+        "34607"
+      ]
+    },
+    "Hillsborough County": {
+      "count": 2,
+      "postal_codes": [
+        "33569",
+        "33578"
+      ]
+    },
+    "Holiday": {
+      "count": 43,
+      "postal_codes": [
+        "34690",
+        "34691"
+      ]
+    },
+    "Hudson": {
+      "count": 105,
+      "postal_codes": [
+        "34609",
+        "34667",
+        "34669"
+      ]
+    },
+    "Indian Rocks Beach": {
+      "count": 45,
+      "postal_codes": [
+        "33785"
+      ]
+    },
+    "Indian Shores": {
+      "count": 12,
+      "postal_codes": [
+        "33785"
+      ]
+    },
+    "Kenneth": {
+      "count": 1,
+      "postal_codes": [
+        "33709"
+      ]
+    },
+    "Kenneth City": {
+      "count": 23,
+      "postal_codes": [
+        "33709"
+      ]
+    },
+    "LARGO": {
+      "count": 2,
+      "postal_codes": [
+        "33771"
+      ]
+    },
+    "LITHIA": {
+      "count": 1,
+      "postal_codes": [
+        "33547"
+      ]
+    },
+    "Land O Lakes": {
+      "count": 26,
+      "postal_codes": [
+        "34638",
+        "34639"
+      ]
+    },
+    "Land O' Lakes": {
+      "count": 41,
+      "postal_codes": [
+        "33548",
+        "33549",
+        "33558",
+        "34637",
+        "34638",
+        "34639"
+      ]
+    },
+    "Land O'Lakes": {
+      "count": 1,
+      "postal_codes": [
+        "34638"
+      ]
+    },
+    "Land O'lakes": {
+      "count": 1,
+      "postal_codes": [
+        "34639"
+      ]
+    },
+    "Land o Lakes": {
+      "count": 1,
+      "postal_codes": [
+        "34639"
+      ]
+    },
+    "Land o lakes": {
+      "count": 1,
+      "postal_codes": [
+        "34639"
+      ]
+    },
+    "Land o' Lakes,": {
+      "count": 1,
+      "postal_codes": [
+        "34638"
+      ]
+    },
+    "Largo": {
+      "count": 372,
+      "postal_codes": [
+        "33756",
+        "33760",
+        "33770",
+        "33771",
+        "33772",
+        "33773",
+        "33774",
+        "33777",
+        "33778"
+      ]
+    },
+    "Largo (Walsingham)": {
+      "count": 1,
+      "postal_codes": [
+        "33774"
+      ]
+    },
+    "Lithia": {
+      "count": 35,
+      "postal_codes": [
+        "33547",
+        "33596"
+      ]
+    },
+    "Lutz": {
+      "count": 214,
+      "postal_codes": [
+        "33548",
+        "33549",
+        "33558",
+        "33559"
+      ]
+    },
+    "Lutz fl": {
+      "count": 1,
+      "postal_codes": [
+        "33559"
+      ]
+    },
+    "Madeira Beach": {
+      "count": 91,
+      "postal_codes": [
+        "33708"
+      ]
+    },
+    "Mango": {
+      "count": 1,
+      "postal_codes": [
+        "33584"
+      ]
+    },
+    "Masaryktown": {
+      "count": 4,
+      "postal_codes": [
+        "34604"
+      ]
+    },
+    "N Redngtn Bch": {
+      "count": 1,
+      "postal_codes": [
+        "33708"
+      ]
+    },
+    "NEW PORT RICHEY": {
+      "count": 1,
+      "postal_codes": [
+        "34652"
+      ]
+    },
+    "New Orleans": {
+      "count": 1,
+      "postal_codes": [
+        "70122"
+      ]
+    },
+    "New Port Richey": {
+      "count": 263,
+      "postal_codes": [
+        "34652",
+        "34653",
+        "34654",
+        "34655",
+        "34656",
+        "34669"
+      ]
+    },
+    "North Redington Bch": {
+      "count": 3,
+      "postal_codes": [
+        "33708"
+      ]
+    },
+    "North Redington Beach": {
+      "count": 14,
+      "postal_codes": [
+        "33708"
+      ]
+    },
+    "Odessa": {
+      "count": 50,
+      "postal_codes": [
+        "33556",
+        "34655"
+      ]
+    },
+    "Oldsmar": {
+      "count": 100,
+      "postal_codes": [
+        "34677",
+        "34766"
+      ]
+    },
+    "Ozona": {
+      "count": 3,
+      "postal_codes": [
+        "34660",
+        "34683"
+      ]
+    },
+    "PINELLAS PARK": {
+      "count": 1,
+      "postal_codes": [
+        "33781"
+      ]
+    },
+    "Palm Harbor": {
+      "count": 245,
+      "postal_codes": [
+        "34682",
+        "34683",
+        "34684",
+        "34685",
+        "34689"
+      ]
+    },
+    "Palm harbor": {
+      "count": 1,
+      "postal_codes": [
+        "34684"
+      ]
+    },
+    "Palmetto": {
+      "count": 8,
+      "postal_codes": [
+        "34221"
+      ]
+    },
+    "Pasadena": {
+      "count": 1,
+      "postal_codes": [
+        "33707"
+      ]
+    },
+    "Pass-a-Grille Beach": {
+      "count": 1,
+      "postal_codes": [
+        "33706"
+      ]
+    },
+    "Petersburg": {
+      "count": 1,
+      "postal_codes": [
+        "33771"
+      ]
+    },
+    "Pinecrest West Park": {
+      "count": 1,
+      "postal_codes": [
+        "33614"
+      ]
+    },
+    "Pinellas": {
+      "count": 2,
+      "postal_codes": [
+        "33709",
+        "33781"
+      ]
+    },
+    "Pinellas Park": {
+      "count": 184,
+      "postal_codes": [
+        "33777",
+        "33781",
+        "33782"
+      ]
+    },
+    "Pinellas park": {
+      "count": 1,
+      "postal_codes": [
+        "33781"
+      ]
+    },
+    "Plant City": {
+      "count": 128,
+      "postal_codes": [
+        "33563",
+        "33565",
+        "33566",
+        "33567"
+      ]
+    },
+    "Port Richey": {
+      "count": 109,
+      "postal_codes": [
+        "34652",
+        "34654",
+        "34668"
+      ]
+    },
+    "RIVERVIEW": {
+      "count": 2,
+      "postal_codes": [
+        "33578"
+      ]
+    },
+    "Redingtn Shor": {
+      "count": 2,
+      "postal_codes": [
+        "33708"
+      ]
+    },
+    "Redingtn Shores": {
+      "count": 1,
+      "postal_codes": [
+        "33708"
+      ]
+    },
+    "Redington Shore": {
+      "count": 1,
+      "postal_codes": [
+        "33708"
+      ]
+    },
+    "Redington Shores": {
+      "count": 17,
+      "postal_codes": [
+        "33708"
+      ]
+    },
+    "Riverview": {
+      "count": 228,
+      "postal_codes": [
+        "33547",
+        "33568",
+        "33569",
+        "33578",
+        "33579"
+      ]
+    },
+    "Riverview Fl": {
+      "count": 1,
+      "postal_codes": [
+        "33578"
+      ]
+    },
+    "Ruskin": {
+      "count": 58,
+      "postal_codes": [
+        "33570",
+        "33573"
+      ]
+    },
+    "S Pasadena": {
+      "count": 1,
+      "postal_codes": [
+        "33707"
+      ]
+    },
+    "S.Pasadena": {
+      "count": 1,
+      "postal_codes": [
+        "33707"
+      ]
+    },
+    "SPRINGHILL": {
+      "count": 1,
+      "postal_codes": [
+        "34606"
+      ]
+    },
+    "ST. PETE BEACH": {
+      "count": 1,
+      "postal_codes": [
+        "33706"
+      ]
+    },
+    "ST. PETERSBURG": {
+      "count": 1,
+      "postal_codes": [
+        "33705"
+      ]
+    },
+    "Safety  Harbor": {
+      "count": 1,
+      "postal_codes": [
+        "34695"
+      ]
+    },
+    "Safety Harbor": {
+      "count": 66,
+      "postal_codes": [
+        "34695"
+      ]
+    },
+    "Saint Leo": {
+      "count": 1,
+      "postal_codes": [
+        "33574"
+      ]
+    },
+    "Saint Pete Beach": {
+      "count": 34,
+      "postal_codes": [
+        "33706"
+      ]
+    },
+    "Saint Petersburg": {
+      "count": 595,
+      "postal_codes": [
+        "33701",
+        "33702",
+        "33703",
+        "33704",
+        "33705",
+        "33706",
+        "33707",
+        "33708",
+        "33709",
+        "33710",
+        "33711",
+        "33712",
+        "33713",
+        "33714",
+        "33715",
+        "33716",
+        "33733",
+        "33781"
+      ]
+    },
+    "Saint Petersburg Beach": {
+      "count": 1,
+      "postal_codes": [
+        "33706"
+      ]
+    },
+    "Saintt Petersburg": {
+      "count": 1,
+      "postal_codes": [
+        "33702"
+      ]
+    },
+    "San Antonio": {
+      "count": 8,
+      "postal_codes": [
+        "33576"
+      ]
+    },
+    "Seffner": {
+      "count": 48,
+      "postal_codes": [
+        "33584"
+      ]
+    },
+    "Seminole": {
+      "count": 134,
+      "postal_codes": [
+        "33708",
+        "33709",
+        "33772",
+        "33776",
+        "33777",
+        "33778",
+        "33785"
+      ]
+    },
+    "South Pasadena": {
+      "count": 22,
+      "postal_codes": [
+        "33707"
+      ]
+    },
+    "South Tampa": {
+      "count": 1,
+      "postal_codes": [
+        "33609"
+      ]
+    },
+    "Southwest Tampa": {
+      "count": 1,
+      "postal_codes": [
+        "33609"
+      ]
+    },
+    "Spring Hill": {
+      "count": 173,
+      "postal_codes": [
+        "34606",
+        "34607",
+        "34608",
+        "34609",
+        "34610"
+      ]
+    },
+    "Springhill": {
+      "count": 1,
+      "postal_codes": [
+        "34606"
+      ]
+    },
+    "St Pete": {
+      "count": 1,
+      "postal_codes": [
+        "33702"
+      ]
+    },
+    "St Pete Beach": {
+      "count": 49,
+      "postal_codes": [
+        "33706"
+      ]
+    },
+    "St Petersburg": {
+      "count": 138,
+      "postal_codes": [
+        "33701",
+        "33702",
+        "33703",
+        "33704",
+        "33705",
+        "33707",
+        "33708",
+        "33709",
+        "33710",
+        "33711",
+        "33712",
+        "33713",
+        "33714",
+        "33715",
+        "33716"
+      ]
+    },
+    "St Petersurg": {
+      "count": 1,
+      "postal_codes": [
+        "33701"
+      ]
+    },
+    "St. Leo": {
+      "count": 1,
+      "postal_codes": [
+        "33576"
+      ]
+    },
+    "St. Pete Beach": {
+      "count": 87,
+      "postal_codes": [
+        "33706"
+      ]
+    },
+    "St. Petersburg": {
+      "count": 510,
+      "postal_codes": [
+        "33634",
+        "33701",
+        "33702",
+        "33703",
+        "33704",
+        "33705",
+        "33706",
+        "33707",
+        "33708",
+        "33709",
+        "33710",
+        "33711",
+        "33712",
+        "33713",
+        "33714",
+        "33715",
+        "33716"
+      ]
+    },
+    "St.Petersburg": {
+      "count": 7,
+      "postal_codes": [
+        "33701",
+        "33702",
+        "33703",
+        "33709",
+        "33711",
+        "33713"
+      ]
+    },
+    "Sun City": {
+      "count": 1,
+      "postal_codes": [
+        "33573"
+      ]
+    },
+    "Sun City Center": {
+      "count": 16,
+      "postal_codes": [
+        "33570",
+        "33573"
+      ]
+    },
+    "TAMPA": {
+      "count": 7,
+      "postal_codes": [
+        "33549",
+        "33607",
+        "33609",
+        "33612",
+        "33613",
+        "33618",
+        "33629"
+      ]
+    },
+    "TEMPLE TERR": {
+      "count": 1,
+      "postal_codes": [
+        "33617"
+      ]
+    },
+    "TRINITY": {
+      "count": 1,
+      "postal_codes": [
+        "34655"
+      ]
+    },
+    "Tampa": {
+      "count": 3538,
+      "postal_codes": [
+        "33511",
+        "33545",
+        "33549",
+        "33556",
+        "33559",
+        "33578",
+        "33592",
+        "33601",
+        "33602",
+        "33603",
+        "33604",
+        "33605",
+        "33606",
+        "33607",
+        "33609",
+        "33610",
+        "33611",
+        "33612",
+        "33613",
+        "33614",
+        "336140",
+        "33615",
+        "33616",
+        "33617",
+        "33618",
+        "33619",
+        "33620",
+        "33621",
+        "33622",
+        "33623",
+        "33624",
+        "33625",
+        "33626",
+        "33629",
+        "33634",
+        "33635",
+        "33637",
+        "33647",
+        "33689",
+        "33705",
+        "33763",
+        "34677",
+        "34683"
+      ]
+    },
+    "Tampa Bay": {
+      "count": 48,
+      "postal_codes": [
+        "33511",
+        "33544",
+        "33559",
+        "33594",
+        "33601",
+        "33602",
+        "33605",
+        "33606",
+        "33607",
+        "33609",
+        "33611",
+        "33615",
+        "33617",
+        "33619",
+        "33626",
+        "33629",
+        "33635",
+        "33637",
+        "33647",
+        "33707",
+        "33755",
+        "33761",
+        "33765",
+        "33767",
+        "33770",
+        "34652",
+        "34653",
+        "34677",
+        "34684",
+        "34685",
+        "34689",
+        "34698"
+      ]
+    },
+    "Tampa Florida": {
+      "count": 1,
+      "postal_codes": [
+        "33614"
+      ]
+    },
+    "Tampa Palms": {
+      "count": 1,
+      "postal_codes": [
+        "33647"
+      ]
+    },
+    "Tampa,Fl": {
+      "count": 1,
+      "postal_codes": [
+        "33615"
+      ]
+    },
+    "Tarpon Springs": {
+      "count": 186,
+      "postal_codes": [
+        "34688",
+        "34689"
+      ]
+    },
+    "Tarpon springs": {
+      "count": 1,
+      "postal_codes": [
+        "34689"
+      ]
+    },
+    "Temple Terr": {
+      "count": 1,
+      "postal_codes": [
+        "33617"
+      ]
+    },
+    "Temple Terrace": {
+      "count": 69,
+      "postal_codes": [
+        "33617",
+        "33637"
+      ]
+    },
+    "Terra Ceia": {
+      "count": 1,
+      "postal_codes": [
+        "34250"
+      ]
+    },
+    "Thonosassa": {
+      "count": 1,
+      "postal_codes": [
+        "33592"
+      ]
+    },
+    "Thonotosassa": {
+      "count": 9,
+      "postal_codes": [
+        "33592"
+      ]
+    },
+    "Tierra Verde": {
+      "count": 16,
+      "postal_codes": [
+        "33715"
+      ]
+    },
+    "Tierre Verde": {
+      "count": 1,
+      "postal_codes": [
+        "33715"
+      ]
+    },
+    "Town 'N' Country": {
+      "count": 1,
+      "postal_codes": [
+        "33615"
+      ]
+    },
+    "Town 'n' Country": {
+      "count": 3,
+      "postal_codes": [
+        "33615"
+      ]
+    },
+    "Town n Country": {
+      "count": 1,
+      "postal_codes": [
+        "33615"
+      ]
+    },
+    "Treasure Island": {
+      "count": 48,
+      "postal_codes": [
+        "33706"
+      ]
+    },
+    "Trinity": {
+      "count": 38,
+      "postal_codes": [
+        "34655"
+      ]
+    },
+    "Twn N Cntry": {
+      "count": 1,
+      "postal_codes": [
+        "33615"
+      ]
+    },
+    "Valrico": {
+      "count": 96,
+      "postal_codes": [
+        "33594",
+        "33596"
+      ]
+    },
+    "Wesley Chapel": {
+      "count": 189,
+      "postal_codes": [
+        "33543",
+        "33544",
+        "33545"
+      ]
+    },
+    "Wesley chapel": {
+      "count": 1,
+      "postal_codes": [
+        "33544"
+      ]
+    },
+    "Westchase": {
+      "count": 7,
+      "postal_codes": [
+        "33588",
+        "33626"
+      ]
+    },
+    "Wimauma": {
+      "count": 6,
+      "postal_codes": [
+        "33598"
+      ]
+    },
+    "Wyndlake Condominium": {
+      "count": 1,
+      "postal_codes": [
+        "34655"
+      ]
+    },
+    "Ybor City": {
+      "count": 2,
+      "postal_codes": [
+        "33605"
+      ]
+    },
+    "Zephyrhills": {
+      "count": 66,
+      "postal_codes": [
+        "33541",
+        "33542",
+        "33543",
+        "33544",
+        "33545"
+      ]
+    },
+    "clearwater": {
+      "count": 1,
+      "postal_codes": [
+        "33764"
+      ]
+    },
+    "wimauma": {
+      "count": 1,
+      "postal_codes": [
+        "33598"
+      ]
+    }
+  },
+  "HI": {
+    "Lula Lula": {
+      "count": 1,
+      "postal_codes": [
+        "90261"
+      ]
+    }
+  },
+  "ID": {
+    "BOISE": {
+      "count": 1,
+      "postal_codes": [
+        "83705"
+      ]
+    },
+    "Boise": {
+      "count": 1065,
+      "postal_codes": [
+        "83701",
+        "83702",
+        "83703",
+        "83704",
+        "83705",
+        "83706",
+        "83707",
+        "83709",
+        "83712",
+        "83713",
+        "83714",
+        "83715",
+        "83716",
+        "83717",
+        "83864",
+        "84714"
+      ]
+    },
+    "Boise City": {
+      "count": 6,
+      "postal_codes": [
+        "83702",
+        "83704",
+        "83705",
+        "83709"
+      ]
+    },
+    "Eagle": {
+      "count": 120,
+      "postal_codes": [
+        "83616",
+        "83646"
+      ]
+    },
+    "Garden City": {
+      "count": 68,
+      "postal_codes": [
+        "83714"
+      ]
+    },
+    "Kuna": {
+      "count": 3,
+      "postal_codes": [
+        "83634"
+      ]
+    },
+    "Meridian": {
+      "count": 378,
+      "postal_codes": [
+        "83642",
+        "83646",
+        "93642"
+      ]
+    },
+    "Nampa": {
+      "count": 2,
+      "postal_codes": [
+        "83646"
+      ]
+    },
+    "boise": {
+      "count": 2,
+      "postal_codes": [
+        "83704",
+        "83706"
+      ]
+    }
+  },
+  "IL": {
+    "Alton": {
+      "count": 91,
+      "postal_codes": [
+        "62002"
+      ]
+    },
+    "Belleville": {
+      "count": 170,
+      "postal_codes": [
+        "62220",
+        "62221",
+        "62223",
+        "62225",
+        "62226"
+      ]
+    },
+    "Bellville": {
+      "count": 1,
+      "postal_codes": [
+        "62226"
+      ]
+    },
+    "Bethalto": {
+      "count": 6,
+      "postal_codes": [
+        "62010"
+      ]
+    },
+    "Cahokia": {
+      "count": 13,
+      "postal_codes": [
+        "62206"
+      ]
+    },
+    "Caseyville": {
+      "count": 17,
+      "postal_codes": [
+        "62232"
+      ]
+    },
+    "Collinsville": {
+      "count": 78,
+      "postal_codes": [
+        "62234"
+      ]
+    },
+    "Columbia": {
+      "count": 35,
+      "postal_codes": [
+        "62236"
+      ]
+    },
+    "Cottage Hills": {
+      "count": 3,
+      "postal_codes": [
+        "62018"
+      ]
+    },
+    "Dupo": {
+      "count": 3,
+      "postal_codes": [
+        "62239"
+      ]
+    },
+    "E Saint Louis": {
+      "count": 1,
+      "postal_codes": [
+        "62201"
+      ]
+    },
+    "East Alton": {
+      "count": 11,
+      "postal_codes": [
+        "62024"
+      ]
+    },
+    "East Saint Louis": {
+      "count": 8,
+      "postal_codes": [
+        "62201",
+        "62204",
+        "62205",
+        "62206"
+      ]
+    },
+    "East St Louis": {
+      "count": 2,
+      "postal_codes": [
+        "62201"
+      ]
+    },
+    "East St. Louis": {
+      "count": 2,
+      "postal_codes": [
+        "62201",
+        "62203"
+      ]
+    },
+    "Edwardsville": {
+      "count": 154,
+      "postal_codes": [
+        "62025"
+      ]
+    },
+    "Fairview Heights": {
+      "count": 92,
+      "postal_codes": [
+        "62202",
+        "62208"
+      ]
+    },
+    "Fairview Hts": {
+      "count": 1,
+      "postal_codes": [
+        "62208"
+      ]
+    },
+    "Fairview Hts.": {
+      "count": 2,
+      "postal_codes": [
+        "62208"
+      ]
+    },
+    "Foster Pond": {
+      "count": 1,
+      "postal_codes": [
+        "62298"
+      ]
+    },
+    "Freeburg": {
+      "count": 5,
+      "postal_codes": [
+        "62243"
+      ]
+    },
+    "Glen Carbon": {
+      "count": 19,
+      "postal_codes": [
+        "62034"
+      ]
+    },
+    "Godfrey": {
+      "count": 18,
+      "postal_codes": [
+        "62035"
+      ]
+    },
+    "Granite City": {
+      "count": 53,
+      "postal_codes": [
+        "62040"
+      ]
+    },
+    "Lebanon": {
+      "count": 21,
+      "postal_codes": [
+        "62254"
+      ]
+    },
+    "Madison": {
+      "count": 1,
+      "postal_codes": [
+        "62060"
+      ]
+    },
+    "Maryville": {
+      "count": 19,
+      "postal_codes": [
+        "62062"
+      ]
+    },
+    "Mascoutah": {
+      "count": 9,
+      "postal_codes": [
+        "62258",
+        "62558"
+      ]
+    },
+    "Millstadt": {
+      "count": 18,
+      "postal_codes": [
+        "62260"
+      ]
+    },
+    "O Fallon": {
+      "count": 29,
+      "postal_codes": [
+        "62269"
+      ]
+    },
+    "O' Fallon": {
+      "count": 1,
+      "postal_codes": [
+        "62269"
+      ]
+    },
+    "O'Fallon": {
+      "count": 64,
+      "postal_codes": [
+        "62269"
+      ]
+    },
+    "O'fallon": {
+      "count": 5,
+      "postal_codes": [
+        "62269"
+      ]
+    },
+    "Pontoon Beach": {
+      "count": 7,
+      "postal_codes": [
+        "62040"
+      ]
+    },
+    "Rosewood Heights": {
+      "count": 1,
+      "postal_codes": [
+        "62024"
+      ]
+    },
+    "Roxana": {
+      "count": 1,
+      "postal_codes": [
+        "62084"
+      ]
+    },
+    "Sauget": {
+      "count": 3,
+      "postal_codes": [
+        "62201"
+      ]
+    },
+    "Scott AFB": {
+      "count": 1,
+      "postal_codes": [
+        "62225"
+      ]
+    },
+    "Scott Afb": {
+      "count": 1,
+      "postal_codes": [
+        "62222"
+      ]
+    },
+    "Scott Air Force Base": {
+      "count": 5,
+      "postal_codes": [
+        "62225"
+      ]
+    },
+    "Shiloh": {
+      "count": 16,
+      "postal_codes": [
+        "62269"
+      ]
+    },
+    "Smithton": {
+      "count": 5,
+      "postal_codes": [
+        "62285"
+      ]
+    },
+    "St. Louis": {
+      "count": 1,
+      "postal_codes": [
+        "63118"
+      ]
+    },
+    "Swansea": {
+      "count": 22,
+      "postal_codes": [
+        "62220",
+        "62226"
+      ]
+    },
+    "Troy": {
+      "count": 29,
+      "postal_codes": [
+        "62294"
+      ]
+    },
+    "Washington Park": {
+      "count": 2,
+      "postal_codes": [
+        "62204"
+      ]
+    },
+    "Waterloo": {
+      "count": 37,
+      "postal_codes": [
+        "62298"
+      ]
+    },
+    "Wood River": {
+      "count": 30,
+      "postal_codes": [
+        "62095"
+      ]
+    }
+  },
+  "IN": {
+    "AVON": {
+      "count": 1,
+      "postal_codes": [
+        "46123"
+      ]
+    },
+    "Avon": {
+      "count": 127,
+      "postal_codes": [
+        "46123",
+        "46168",
+        "46231"
+      ]
+    },
+    "Bargersville": {
+      "count": 3,
+      "postal_codes": [
+        "46106",
+        "46143"
+      ]
+    },
+    "Beech Grove": {
+      "count": 25,
+      "postal_codes": [
+        "46107",
+        "46203"
+      ]
+    },
+    "Beech Grove,": {
+      "count": 1,
+      "postal_codes": [
+        "46107"
+      ]
+    },
+    "Boone": {
+      "count": 1,
+      "postal_codes": [
+        "46077"
+      ]
+    },
+    "Brownsburg": {
+      "count": 95,
+      "postal_codes": [
+        "46112"
+      ]
+    },
+    "Camby": {
+      "count": 20,
+      "postal_codes": [
+        "46113"
+      ]
+    },
+    "Carmel": {
+      "count": 367,
+      "postal_codes": [
+        "46032",
+        "46033",
+        "46202",
+        "46290"
+      ]
+    },
+    "Castleton": {
+      "count": 4,
+      "postal_codes": [
+        "46250"
+      ]
+    },
+    "Clermont": {
+      "count": 4,
+      "postal_codes": [
+        "46234"
+      ]
+    },
+    "Cumberland": {
+      "count": 3,
+      "postal_codes": [
+        "46229"
+      ]
+    },
+    "Danville": {
+      "count": 6,
+      "postal_codes": [
+        "46122"
+      ]
+    },
+    "Fairland": {
+      "count": 1,
+      "postal_codes": [
+        "46126"
+      ]
+    },
+    "Fishers": {
+      "count": 254,
+      "postal_codes": [
+        "37076",
+        "46036",
+        "46037",
+        "46038",
+        "46040",
+        "46250",
+        "46256",
+        "46307"
+      ]
+    },
+    "Fortville": {
+      "count": 1,
+      "postal_codes": [
+        "46040"
+      ]
+    },
+    "Franklin": {
+      "count": 1,
+      "postal_codes": [
+        "46131"
+      ]
+    },
+    "Greenfield": {
+      "count": 5,
+      "postal_codes": [
+        "46140"
+      ]
+    },
+    "Greenwood": {
+      "count": 250,
+      "postal_codes": [
+        "46142",
+        "46143",
+        "46227"
+      ]
+    },
+    "Hancock": {
+      "count": 1,
+      "postal_codes": [
+        "46140"
+      ]
+    },
+    "INDIANAPOLIS": {
+      "count": 1,
+      "postal_codes": [
+        "46250"
+      ]
+    },
+    "INpolis": {
+      "count": 1,
+      "postal_codes": [
+        "46234"
+      ]
+    },
+    "Indiana": {
+      "count": 1,
+      "postal_codes": [
+        "46142"
+      ]
+    },
+    "Indianapolis": {
+      "count": 3375,
+      "postal_codes": [
+        "20781",
+        "46032",
+        "46033",
+        "46037",
+        "46077",
+        "46112",
+        "46113",
+        "46123",
+        "46128",
+        "46142",
+        "46143",
+        "46201",
+        "46202",
+        "46203",
+        "46204",
+        "46205",
+        "46206",
+        "46208",
+        "46214",
+        "46216",
+        "46217",
+        "46218",
+        "46219",
+        "46220",
+        "46221",
+        "46222",
+        "46224",
+        "46225",
+        "46226",
+        "46227",
+        "46228",
+        "46229",
+        "46230",
+        "46231",
+        "46234",
+        "46235",
+        "46236",
+        "46237",
+        "46239",
+        "46240",
+        "46241",
+        "46250",
+        "46254",
+        "46255",
+        "46256",
+        "46259",
+        "46260",
+        "46262",
+        "46268",
+        "46269",
+        "46278",
+        "46280",
+        "46282",
+        "46290",
+        "46296"
+      ]
+    },
+    "Indianapolis city (balance)": {
+      "count": 1,
+      "postal_codes": [
+        "46229"
+      ]
+    },
+    "Lawrence": {
+      "count": 13,
+      "postal_codes": [
+        "46216",
+        "46226",
+        "46236"
+      ]
+    },
+    "Lawrence Township": {
+      "count": 1,
+      "postal_codes": [
+        "46236"
+      ]
+    },
+    "Martinsville": {
+      "count": 2,
+      "postal_codes": [
+        "46151"
+      ]
+    },
+    "Mc Cordsville": {
+      "count": 1,
+      "postal_codes": [
+        "46055"
+      ]
+    },
+    "McCordsville": {
+      "count": 11,
+      "postal_codes": [
+        "46040",
+        "46055"
+      ]
+    },
+    "Mccordsville": {
+      "count": 2,
+      "postal_codes": [
+        "46055"
+      ]
+    },
+    "Mooresville": {
+      "count": 46,
+      "postal_codes": [
+        "46156",
+        "46158",
+        "46224"
+      ]
+    },
+    "New Palestine": {
+      "count": 10,
+      "postal_codes": [
+        "46163"
+      ]
+    },
+    "New Whiteland": {
+      "count": 5,
+      "postal_codes": [
+        "46184"
+      ]
+    },
+    "Noblesville": {
+      "count": 13,
+      "postal_codes": [
+        "46060",
+        "46062"
+      ]
+    },
+    "Oaklandon": {
+      "count": 1,
+      "postal_codes": [
+        "46236"
+      ]
+    },
+    "Plainfield": {
+      "count": 119,
+      "postal_codes": [
+        "46168"
+      ]
+    },
+    "Plainfiled": {
+      "count": 1,
+      "postal_codes": [
+        "46168"
+      ]
+    },
+    "Pleasant Township": {
+      "count": 1,
+      "postal_codes": [
+        "46184"
+      ]
+    },
+    "Southport": {
+      "count": 4,
+      "postal_codes": [
+        "46227",
+        "46237"
+      ]
+    },
+    "Speedway": {
+      "count": 35,
+      "postal_codes": [
+        "46224"
+      ]
+    },
+    "Whiteland": {
+      "count": 8,
+      "postal_codes": [
+        "46184"
+      ]
+    },
+    "Whitestown": {
+      "count": 26,
+      "postal_codes": [
+        "46075",
+        "46077"
+      ]
+    },
+    "Zionsville": {
+      "count": 99,
+      "postal_codes": [
+        "46077"
+      ]
+    },
+    "indianopolis": {
+      "count": 1,
+      "postal_codes": [
+        "46268"
+      ]
+    },
+    "lawrence": {
+      "count": 1,
+      "postal_codes": [
+        "46256"
+      ]
+    }
+  },
+  "LA": {
+    "Algiers": {
+      "count": 1,
+      "postal_codes": [
+        "70114"
+      ]
+    },
+    "Arabi": {
+      "count": 19,
+      "postal_codes": [
+        "70032"
+      ]
+    },
+    "Avondale": {
+      "count": 4,
+      "postal_codes": [
+        "70094"
+      ]
+    },
+    "Belle Chase": {
+      "count": 2,
+      "postal_codes": [
+        "70037"
+      ]
+    },
+    "Belle Chasse": {
+      "count": 24,
+      "postal_codes": [
+        "70037"
+      ]
+    },
+    "Bridge City": {
+      "count": 2,
+      "postal_codes": [
+        "70094"
+      ]
+    },
+    "Bucktown": {
+      "count": 1,
+      "postal_codes": [
+        "70005"
+      ]
+    },
+    "Bywater": {
+      "count": 1,
+      "postal_codes": [
+        "70117"
+      ]
+    },
+    "Chalemette": {
+      "count": 1,
+      "postal_codes": [
+        "70043"
+      ]
+    },
+    "Chalmette": {
+      "count": 72,
+      "postal_codes": [
+        "70043"
+      ]
+    },
+    "Downtown": {
+      "count": 1,
+      "postal_codes": [
+        "70114"
+      ]
+    },
+    "Elmwood": {
+      "count": 5,
+      "postal_codes": [
+        "70123"
+      ]
+    },
+    "Gentilly": {
+      "count": 1,
+      "postal_codes": [
+        "70122"
+      ]
+    },
+    "Gretna": {
+      "count": 155,
+      "postal_codes": [
+        "70053",
+        "70056"
+      ]
+    },
+    "Harahan": {
+      "count": 70,
+      "postal_codes": [
+        "70123"
+      ]
+    },
+    "Harvey": {
+      "count": 131,
+      "postal_codes": [
+        "70058",
+        "70072"
+      ]
+    },
+    "Jefferson": {
+      "count": 32,
+      "postal_codes": [
+        "70121",
+        "70123"
+      ]
+    },
+    "Kenner": {
+      "count": 272,
+      "postal_codes": [
+        "70062",
+        "70063",
+        "70065"
+      ]
+    },
+    "Luling": {
+      "count": 4,
+      "postal_codes": [
+        "70070"
+      ]
+    },
+    "Marrero": {
+      "count": 90,
+      "postal_codes": [
+        "70072"
+      ]
+    },
+    "Meraux": {
+      "count": 6,
+      "postal_codes": [
+        "70075"
+      ]
+    },
+    "Metairie": {
+      "count": 632,
+      "postal_codes": [
+        "70001",
+        "70002",
+        "70003",
+        "70005",
+        "70006",
+        "70115",
+        "70124",
+        "70125"
+      ]
+    },
+    "Metarie": {
+      "count": 1,
+      "postal_codes": [
+        "70121"
+      ]
+    },
+    "NEW ORLEANS": {
+      "count": 2,
+      "postal_codes": [
+        "70117",
+        "70130"
+      ]
+    },
+    "New Orleans": {
+      "count": 2896,
+      "postal_codes": [
+        "70001",
+        "70005",
+        "70016",
+        "70032",
+        "70053",
+        "70056",
+        "70058",
+        "70112",
+        "70113",
+        "70114",
+        "70115",
+        "70116",
+        "70117",
+        "70118",
+        "70119",
+        "70121",
+        "70122",
+        "70123",
+        "70124",
+        "70125",
+        "70126",
+        "70127",
+        "70128",
+        "70129",
+        "70130",
+        "70131",
+        "70132",
+        "70139",
+        "70140",
+        "70157",
+        "70163",
+        "70170",
+        "70177",
+        "70195"
+      ]
+    },
+    "River Ridge": {
+      "count": 16,
+      "postal_codes": [
+        "70123"
+      ]
+    },
+    "Riveridge": {
+      "count": 1,
+      "postal_codes": [
+        "70123"
+      ]
+    },
+    "Saint Bernard": {
+      "count": 1,
+      "postal_codes": [
+        "70085"
+      ]
+    },
+    "Saint Rose": {
+      "count": 6,
+      "postal_codes": [
+        "70087"
+      ]
+    },
+    "St. Rose": {
+      "count": 2,
+      "postal_codes": [
+        "70087"
+      ]
+    },
+    "St.Rose": {
+      "count": 1,
+      "postal_codes": [
+        "70087"
+      ]
+    },
+    "Terrytown": {
+      "count": 37,
+      "postal_codes": [
+        "70056"
+      ]
+    },
+    "Violet": {
+      "count": 4,
+      "postal_codes": [
+        "70092"
+      ]
+    },
+    "Westwego": {
+      "count": 30,
+      "postal_codes": [
+        "70094"
+      ]
+    }
+  },
+  "MO": {
+    "Affton": {
+      "count": 21,
+      "postal_codes": [
+        "63123",
+        "63129"
+      ]
+    },
+    "Afton": {
+      "count": 1,
+      "postal_codes": [
+        "63123"
+      ]
+    },
+    "Arnold": {
+      "count": 103,
+      "postal_codes": [
+        "63010"
+      ]
+    },
+    "Ballwin": {
+      "count": 80,
+      "postal_codes": [
+        "63011",
+        "63021",
+        "63114"
+      ]
+    },
+    "Bellefontaine Neighbors": {
+      "count": 1,
+      "postal_codes": [
+        "63137"
+      ]
+    },
+    "Berkeley": {
+      "count": 7,
+      "postal_codes": [
+        "63120",
+        "63134"
+      ]
+    },
+    "Black Jack": {
+      "count": 1,
+      "postal_codes": [
+        "63033"
+      ]
+    },
+    "Blvd": {
+      "count": 1,
+      "postal_codes": [
+        "63131"
+      ]
+    },
+    "Breckenridge Hills": {
+      "count": 3,
+      "postal_codes": [
+        "63114"
+      ]
+    },
+    "Brentwood": {
+      "count": 37,
+      "postal_codes": [
+        "63144"
+      ]
+    },
+    "Bridgeton": {
+      "count": 72,
+      "postal_codes": [
+        "63043",
+        "63044",
+        "63045",
+        "63074"
+      ]
+    },
+    "Chesterfield": {
+      "count": 79,
+      "postal_codes": [
+        "63011",
+        "63017",
+        "63141"
+      ]
+    },
+    "Clayton": {
+      "count": 111,
+      "postal_codes": [
+        "63105",
+        "63117"
+      ]
+    },
+    "Crestwood": {
+      "count": 8,
+      "postal_codes": [
+        "63119",
+        "63122",
+        "63126"
+      ]
+    },
+    "Creve Coeur": {
+      "count": 81,
+      "postal_codes": [
+        "63141"
+      ]
+    },
+    "Dellwood": {
+      "count": 1,
+      "postal_codes": [
+        "63135"
+      ]
+    },
+    "Des Peres": {
+      "count": 68,
+      "postal_codes": [
+        "63131"
+      ]
+    },
+    "Earth City": {
+      "count": 6,
+      "postal_codes": [
+        "63045"
+      ]
+    },
+    "Fenton": {
+      "count": 97,
+      "postal_codes": [
+        "63026",
+        "63126"
+      ]
+    },
+    "Ferguson": {
+      "count": 29,
+      "postal_codes": [
+        "63135",
+        "63136"
+      ]
+    },
+    "Florissant": {
+      "count": 185,
+      "postal_codes": [
+        "63031",
+        "63033",
+        "63034"
+      ]
+    },
+    "Frontenac": {
+      "count": 12,
+      "postal_codes": [
+        "63131"
+      ]
+    },
+    "Green Park": {
+      "count": 2,
+      "postal_codes": [
+        "63123"
+      ]
+    },
+    "Hazelwood": {
+      "count": 42,
+      "postal_codes": [
+        "63042"
+      ]
+    },
+    "High Ridge": {
+      "count": 24,
+      "postal_codes": [
+        "63049"
+      ]
+    },
+    "Imperial": {
+      "count": 20,
+      "postal_codes": [
+        "63052",
+        "63053"
+      ]
+    },
+    "Jennings": {
+      "count": 7,
+      "postal_codes": [
+        "63136"
+      ]
+    },
+    "Kimmswick": {
+      "count": 6,
+      "postal_codes": [
+        "63052",
+        "63053"
+      ]
+    },
+    "Kirkwood": {
+      "count": 98,
+      "postal_codes": [
+        "63122"
+      ]
+    },
+    "Ladue": {
+      "count": 9,
+      "postal_codes": [
+        "63124",
+        "63131"
+      ]
+    },
+    "Lemay": {
+      "count": 1,
+      "postal_codes": [
+        "63125"
+      ]
+    },
+    "Manchester": {
+      "count": 31,
+      "postal_codes": [
+        "63011",
+        "63017",
+        "63021",
+        "63088"
+      ]
+    },
+    "Maplewood": {
+      "count": 66,
+      "postal_codes": [
+        "63143"
+      ]
+    },
+    "Marlborough": {
+      "count": 1,
+      "postal_codes": [
+        "63119"
+      ]
+    },
+    "Maryland Heights": {
+      "count": 95,
+      "postal_codes": [
+        "63043",
+        "63146"
+      ]
+    },
+    "Mehlville": {
+      "count": 1,
+      "postal_codes": [
+        "63125"
+      ]
+    },
+    "Normandy": {
+      "count": 4,
+      "postal_codes": [
+        "63121"
+      ]
+    },
+    "Oakville": {
+      "count": 5,
+      "postal_codes": [
+        "63129"
+      ]
+    },
+    "Olivette": {
+      "count": 14,
+      "postal_codes": [
+        "63132"
+      ]
+    },
+    "Overland": {
+      "count": 20,
+      "postal_codes": [
+        "63114",
+        "63132",
+        "63134"
+      ]
+    },
+    "Peerless Park": {
+      "count": 1,
+      "postal_codes": [
+        "63088"
+      ]
+    },
+    "Richmond Heights": {
+      "count": 34,
+      "postal_codes": [
+        "63117",
+        "63144"
+      ]
+    },
+    "Rock Hill": {
+      "count": 8,
+      "postal_codes": [
+        "63119"
+      ]
+    },
+    "ST LOUIS": {
+      "count": 1,
+      "postal_codes": [
+        "63117"
+      ]
+    },
+    "ST. Louis": {
+      "count": 1,
+      "postal_codes": [
+        "63130"
+      ]
+    },
+    "Saint Ann": {
+      "count": 29,
+      "postal_codes": [
+        "63074"
+      ]
+    },
+    "Saint Charles": {
+      "count": 144,
+      "postal_codes": [
+        "48655",
+        "63301",
+        "63302",
+        "63303"
+      ]
+    },
+    "Saint John": {
+      "count": 1,
+      "postal_codes": [
+        "63114"
+      ]
+    },
+    "Saint Louis": {
+      "count": 2141,
+      "postal_codes": [
+        "62201",
+        "63011",
+        "63026",
+        "63031",
+        "63042",
+        "63043",
+        "63044",
+        "63074",
+        "63101",
+        "63102",
+        "63103",
+        "63104",
+        "63105",
+        "63106",
+        "63107",
+        "63108",
+        "63109",
+        "63110",
+        "63111",
+        "63112",
+        "63113",
+        "63114",
+        "63115",
+        "63116",
+        "63117",
+        "63118",
+        "63119",
+        "63120",
+        "63121",
+        "63122",
+        "63123",
+        "63124",
+        "63125",
+        "63126",
+        "63127",
+        "63128",
+        "63129",
+        "63130",
+        "63131",
+        "63132",
+        "63133",
+        "63134",
+        "63135",
+        "63136",
+        "63137",
+        "63138",
+        "63139",
+        "63141",
+        "63143",
+        "63144",
+        "63145",
+        "63146",
+        "63147",
+        "63182",
+        "63190"
+      ]
+    },
+    "Saint Louis,": {
+      "count": 2,
+      "postal_codes": [
+        "63130",
+        "63141"
+      ]
+    },
+    "Sappington": {
+      "count": 7,
+      "postal_codes": [
+        "63126",
+        "63128"
+      ]
+    },
+    "Shrewsbury": {
+      "count": 3,
+      "postal_codes": [
+        "63119"
+      ]
+    },
+    "St Ann": {
+      "count": 2,
+      "postal_codes": [
+        "63074"
+      ]
+    },
+    "St Charles": {
+      "count": 51,
+      "postal_codes": [
+        "63301",
+        "63303"
+      ]
+    },
+    "St Louis": {
+      "count": 165,
+      "postal_codes": [
+        "63011",
+        "63022",
+        "63101",
+        "63102",
+        "63103",
+        "63104",
+        "63105",
+        "63107",
+        "63108",
+        "63109",
+        "63110",
+        "63111",
+        "63112",
+        "63114",
+        "63116",
+        "63117",
+        "63118",
+        "63119",
+        "63121",
+        "63122",
+        "63123",
+        "63124",
+        "63125",
+        "63126",
+        "63128",
+        "63129",
+        "63130",
+        "63131",
+        "63132",
+        "63134",
+        "63136",
+        "63139",
+        "63141",
+        "63143",
+        "63144",
+        "63145",
+        "63146"
+      ]
+    },
+    "St Louis County": {
+      "count": 1,
+      "postal_codes": [
+        "63011"
+      ]
+    },
+    "St.  Charles": {
+      "count": 1,
+      "postal_codes": [
+        "63301"
+      ]
+    },
+    "St. Ann": {
+      "count": 5,
+      "postal_codes": [
+        "63074"
+      ]
+    },
+    "St. Charles": {
+      "count": 53,
+      "postal_codes": [
+        "63301",
+        "63303"
+      ]
+    },
+    "St. Louis": {
+      "count": 637,
+      "postal_codes": [
+        "63033",
+        "63043",
+        "63074",
+        "63101",
+        "63102",
+        "63103",
+        "63104",
+        "63105",
+        "63106",
+        "63107",
+        "63108",
+        "63109",
+        "63110",
+        "63111",
+        "63112",
+        "63113",
+        "63114",
+        "63115",
+        "63116",
+        "63117",
+        "63118",
+        "63119",
+        "63121",
+        "63122",
+        "63123",
+        "63124",
+        "63125",
+        "63126",
+        "63127",
+        "63128",
+        "63129",
+        "63130",
+        "63131",
+        "63132",
+        "63134",
+        "63136",
+        "63138",
+        "63139",
+        "63141",
+        "63143",
+        "63144",
+        "63145",
+        "63146",
+        "63147",
+        "63310"
+      ]
+    },
+    "St. Louis County": {
+      "count": 1,
+      "postal_codes": [
+        "63126"
+      ]
+    },
+    "St. Peters": {
+      "count": 2,
+      "postal_codes": [
+        "63303"
+      ]
+    },
+    "St.Ann": {
+      "count": 1,
+      "postal_codes": [
+        "63074"
+      ]
+    },
+    "St.Charles": {
+      "count": 1,
+      "postal_codes": [
+        "63303"
+      ]
+    },
+    "St.Louis": {
+      "count": 7,
+      "postal_codes": [
+        "63114",
+        "63115",
+        "63116",
+        "63125",
+        "63132",
+        "63136",
+        "63139"
+      ]
+    },
+    "Sullivan": {
+      "count": 1,
+      "postal_codes": [
+        "63080"
+      ]
+    },
+    "Sunset Hills": {
+      "count": 15,
+      "postal_codes": [
+        "63126",
+        "63127"
+      ]
+    },
+    "Town & Country": {
+      "count": 1,
+      "postal_codes": [
+        "63017"
+      ]
+    },
+    "Town And Country": {
+      "count": 3,
+      "postal_codes": [
+        "63017",
+        "63131"
+      ]
+    },
+    "Town and Country": {
+      "count": 15,
+      "postal_codes": [
+        "63011",
+        "63017",
+        "63131"
+      ]
+    },
+    "Twin Oaks": {
+      "count": 3,
+      "postal_codes": [
+        "63021",
+        "63088"
+      ]
+    },
+    "University City": {
+      "count": 68,
+      "postal_codes": [
+        "63105",
+        "63124",
+        "63130",
+        "63132"
+      ]
+    },
+    "Valley Park": {
+      "count": 34,
+      "postal_codes": [
+        "63021",
+        "63088",
+        "63122"
+      ]
+    },
+    "Warson Woods": {
+      "count": 2,
+      "postal_codes": [
+        "63122"
+      ]
+    },
+    "Webster Groves": {
+      "count": 52,
+      "postal_codes": [
+        "63110",
+        "63119"
+      ]
+    },
+    "Winchester": {
+      "count": 2,
+      "postal_codes": [
+        "63011"
+      ]
+    },
+    "Woodson Terrace": {
+      "count": 1,
+      "postal_codes": [
+        "63134"
+      ]
+    },
+    "\u200bClayton": {
+      "count": 1,
+      "postal_codes": [
+        "63105"
+      ]
+    }
+  },
+  "MT": {
+    "Kalispell": {
+      "count": 1,
+      "postal_codes": [
+        "59901"
+      ]
+    }
+  },
+  "NC": {
+    "Boone": {
+      "count": 1,
+      "postal_codes": [
+        "28607"
+      ]
+    }
+  },
+  "NJ": {
+    "Alloway": {
+      "count": 2,
+      "postal_codes": [
+        "08001"
+      ]
+    },
+    "Almonesson": {
+      "count": 1,
+      "postal_codes": [
+        "08096"
+      ]
+    },
+    "Atco": {
+      "count": 13,
+      "postal_codes": [
+        "08004"
+      ]
+    },
+    "Audubon": {
+      "count": 31,
+      "postal_codes": [
+        "08106"
+      ]
+    },
+    "Barrington": {
+      "count": 18,
+      "postal_codes": [
+        "08007"
+      ]
+    },
+    "Bellmawr": {
+      "count": 23,
+      "postal_codes": [
+        "08031"
+      ]
+    },
+    "Berlin": {
+      "count": 47,
+      "postal_codes": [
+        "08009",
+        "08091"
+      ]
+    },
+    "Berlin Township": {
+      "count": 4,
+      "postal_codes": [
+        "08091"
+      ]
+    },
+    "Beverly": {
+      "count": 9,
+      "postal_codes": [
+        "08010"
+      ]
+    },
+    "Blackwood": {
+      "count": 54,
+      "postal_codes": [
+        "08012",
+        "08021"
+      ]
+    },
+    "Bordentown": {
+      "count": 45,
+      "postal_codes": [
+        "08505"
+      ]
+    },
+    "Bridgeton": {
+      "count": 1,
+      "postal_codes": [
+        "08302"
+      ]
+    },
+    "Brooklawn": {
+      "count": 12,
+      "postal_codes": [
+        "08030",
+        "08031",
+        "08093",
+        "08825"
+      ]
+    },
+    "Burlington": {
+      "count": 95,
+      "postal_codes": [
+        "08016"
+      ]
+    },
+    "Burlington Township": {
+      "count": 3,
+      "postal_codes": [
+        "08016"
+      ]
+    },
+    "Camden": {
+      "count": 68,
+      "postal_codes": [
+        "08093",
+        "08100",
+        "08102",
+        "08103",
+        "08104",
+        "08105"
+      ]
+    },
+    "Carney's Point": {
+      "count": 1,
+      "postal_codes": [
+        "08069"
+      ]
+    },
+    "Carneys Point": {
+      "count": 4,
+      "postal_codes": [
+        "08069"
+      ]
+    },
+    "Cedar Brook": {
+      "count": 4,
+      "postal_codes": [
+        "08018",
+        "08037"
+      ]
+    },
+    "Cherry Hil": {
+      "count": 1,
+      "postal_codes": [
+        "08034"
+      ]
+    },
+    "Cherry Hill": {
+      "count": 328,
+      "postal_codes": [
+        "08002",
+        "08003",
+        "08034"
+      ]
+    },
+    "Cherry Hill Mall": {
+      "count": 1,
+      "postal_codes": [
+        "08002"
+      ]
+    },
+    "Chesilhurst": {
+      "count": 3,
+      "postal_codes": [
+        "08089"
+      ]
+    },
+    "Chesterfield": {
+      "count": 1,
+      "postal_codes": [
+        "08510"
+      ]
+    },
+    "Cinnaminson": {
+      "count": 52,
+      "postal_codes": [
+        "08077"
+      ]
+    },
+    "Clarksboro": {
+      "count": 5,
+      "postal_codes": [
+        "08020"
+      ]
+    },
+    "Clayton": {
+      "count": 12,
+      "postal_codes": [
+        "08312"
+      ]
+    },
+    "Clementon": {
+      "count": 56,
+      "postal_codes": [
+        "08021"
+      ]
+    },
+    "Collingswood": {
+      "count": 92,
+      "postal_codes": [
+        "08107",
+        "08108"
+      ]
+    },
+    "Columbus": {
+      "count": 18,
+      "postal_codes": [
+        "08022"
+      ]
+    },
+    "DELRAN": {
+      "count": 1,
+      "postal_codes": [
+        "08075"
+      ]
+    },
+    "Delanco": {
+      "count": 3,
+      "postal_codes": [
+        "08075"
+      ]
+    },
+    "Delran": {
+      "count": 41,
+      "postal_codes": [
+        "08075"
+      ]
+    },
+    "Delran Township": {
+      "count": 1,
+      "postal_codes": [
+        "08075"
+      ]
+    },
+    "Deptford": {
+      "count": 49,
+      "postal_codes": [
+        "08080",
+        "08096",
+        "08097"
+      ]
+    },
+    "Deptford Township": {
+      "count": 15,
+      "postal_codes": [
+        "08096"
+      ]
+    },
+    "Eastampton": {
+      "count": 4,
+      "postal_codes": [
+        "08060"
+      ]
+    },
+    "Eastampton Township": {
+      "count": 3,
+      "postal_codes": [
+        "08060"
+      ]
+    },
+    "Edgewater Park": {
+      "count": 5,
+      "postal_codes": [
+        "08010",
+        "08046"
+      ]
+    },
+    "Elk Township": {
+      "count": 1,
+      "postal_codes": [
+        "08343"
+      ]
+    },
+    "Elmer": {
+      "count": 8,
+      "postal_codes": [
+        "08318"
+      ]
+    },
+    "Erial": {
+      "count": 1,
+      "postal_codes": [
+        "08081"
+      ]
+    },
+    "Evesham": {
+      "count": 5,
+      "postal_codes": [
+        "08053"
+      ]
+    },
+    "Evesham Township": {
+      "count": 19,
+      "postal_codes": [
+        "08053"
+      ]
+    },
+    "Ewing": {
+      "count": 63,
+      "postal_codes": [
+        "08610",
+        "08618",
+        "08628",
+        "08638"
+      ]
+    },
+    "Ewing Township": {
+      "count": 28,
+      "postal_codes": [
+        "08618",
+        "08628",
+        "08638"
+      ]
+    },
+    "Ewing Twp": {
+      "count": 1,
+      "postal_codes": [
+        "08638"
+      ]
+    },
+    "Fieldsboro": {
+      "count": 1,
+      "postal_codes": [
+        "08505"
+      ]
+    },
+    "Flanders": {
+      "count": 1,
+      "postal_codes": [
+        "07836"
+      ]
+    },
+    "Florence": {
+      "count": 7,
+      "postal_codes": [
+        "08518"
+      ]
+    },
+    "Florence Township": {
+      "count": 4,
+      "postal_codes": [
+        "08518"
+      ]
+    },
+    "Folsom": {
+      "count": 1,
+      "postal_codes": [
+        "08094"
+      ]
+    },
+    "Franklin": {
+      "count": 3,
+      "postal_codes": [
+        "08322",
+        "08328"
+      ]
+    },
+    "Franklinville": {
+      "count": 9,
+      "postal_codes": [
+        "08322"
+      ]
+    },
+    "Freehold": {
+      "count": 1,
+      "postal_codes": [
+        "08501"
+      ]
+    },
+    "Gibbsboro": {
+      "count": 7,
+      "postal_codes": [
+        "08026"
+      ]
+    },
+    "Gibbstown": {
+      "count": 10,
+      "postal_codes": [
+        "08027"
+      ]
+    },
+    "Glassboro": {
+      "count": 83,
+      "postal_codes": [
+        "08028",
+        "08080"
+      ]
+    },
+    "Glendora": {
+      "count": 15,
+      "postal_codes": [
+        "08029"
+      ]
+    },
+    "Gloucester City": {
+      "count": 24,
+      "postal_codes": [
+        "08030"
+      ]
+    },
+    "Gloucester Township": {
+      "count": 11,
+      "postal_codes": [
+        "08012",
+        "08029"
+      ]
+    },
+    "Had Twp": {
+      "count": 1,
+      "postal_codes": [
+        "08108"
+      ]
+    },
+    "Haddon": {
+      "count": 1,
+      "postal_codes": [
+        "08108"
+      ]
+    },
+    "Haddon Heights": {
+      "count": 27,
+      "postal_codes": [
+        "08035"
+      ]
+    },
+    "Haddon Township": {
+      "count": 33,
+      "postal_codes": [
+        "08033",
+        "08104",
+        "08107",
+        "08108"
+      ]
+    },
+    "Haddon Twp": {
+      "count": 1,
+      "postal_codes": [
+        "08108"
+      ]
+    },
+    "Haddonfield": {
+      "count": 87,
+      "postal_codes": [
+        "08033",
+        "08080"
+      ]
+    },
+    "Hainesport": {
+      "count": 16,
+      "postal_codes": [
+        "08036"
+      ]
+    },
+    "Hamiltion": {
+      "count": 1,
+      "postal_codes": [
+        "08610"
+      ]
+    },
+    "Hamilton": {
+      "count": 20,
+      "postal_codes": [
+        "08609",
+        "08610",
+        "08619",
+        "08629"
+      ]
+    },
+    "Hamilton Township": {
+      "count": 10,
+      "postal_codes": [
+        "08609",
+        "08610",
+        "08611",
+        "08619"
+      ]
+    },
+    "Hammonton": {
+      "count": 16,
+      "postal_codes": [
+        "08037"
+      ]
+    },
+    "Harrison Township": {
+      "count": 7,
+      "postal_codes": [
+        "08062"
+      ]
+    },
+    "Hi-Nella": {
+      "count": 2,
+      "postal_codes": [
+        "08083"
+      ]
+    },
+    "Hilltop": {
+      "count": 1,
+      "postal_codes": [
+        "08012"
+      ]
+    },
+    "Hurffville": {
+      "count": 1,
+      "postal_codes": [
+        "08080"
+      ]
+    },
+    "Jobstown": {
+      "count": 2,
+      "postal_codes": [
+        "08041"
+      ]
+    },
+    "Lambertville": {
+      "count": 72,
+      "postal_codes": [
+        "08530"
+      ]
+    },
+    "Laurel Springs": {
+      "count": 9,
+      "postal_codes": [
+        "08021"
+      ]
+    },
+    "Lawnside": {
+      "count": 7,
+      "postal_codes": [
+        "08045"
+      ]
+    },
+    "Lawrence": {
+      "count": 2,
+      "postal_codes": [
+        "08638",
+        "08648"
+      ]
+    },
+    "Lawrence Township": {
+      "count": 7,
+      "postal_codes": [
+        "08648"
+      ]
+    },
+    "Lawrenceville": {
+      "count": 2,
+      "postal_codes": [
+        "08648"
+      ]
+    },
+    "Lindenwold": {
+      "count": 28,
+      "postal_codes": [
+        "08021"
+      ]
+    },
+    "Logan Township": {
+      "count": 8,
+      "postal_codes": [
+        "08085"
+      ]
+    },
+    "Lumberton": {
+      "count": 21,
+      "postal_codes": [
+        "08048",
+        "08060"
+      ]
+    },
+    "Magnolia": {
+      "count": 12,
+      "postal_codes": [
+        "08049"
+      ]
+    },
+    "Malaga": {
+      "count": 9,
+      "postal_codes": [
+        "08328"
+      ]
+    },
+    "Mansfield": {
+      "count": 4,
+      "postal_codes": [
+        "08022"
+      ]
+    },
+    "Mantua": {
+      "count": 11,
+      "postal_codes": [
+        "08051",
+        "08080"
+      ]
+    },
+    "Mantua Township": {
+      "count": 4,
+      "postal_codes": [
+        "08051",
+        "08080"
+      ]
+    },
+    "Maple Shade": {
+      "count": 54,
+      "postal_codes": [
+        "08052"
+      ]
+    },
+    "Maple Shade Township": {
+      "count": 8,
+      "postal_codes": [
+        "08052"
+      ]
+    },
+    "Marlton": {
+      "count": 142,
+      "postal_codes": [
+        "08053"
+      ]
+    },
+    "Medford": {
+      "count": 86,
+      "postal_codes": [
+        "08005",
+        "08053",
+        "08055"
+      ]
+    },
+    "Medford Lakes": {
+      "count": 5,
+      "postal_codes": [
+        "08055"
+      ]
+    },
+    "Mercerville": {
+      "count": 1,
+      "postal_codes": [
+        "08619"
+      ]
+    },
+    "Merchantville": {
+      "count": 29,
+      "postal_codes": [
+        "08109"
+      ]
+    },
+    "Mickleton": {
+      "count": 2,
+      "postal_codes": [
+        "08056"
+      ]
+    },
+    "Monroe Township": {
+      "count": 6,
+      "postal_codes": [
+        "08094"
+      ]
+    },
+    "Monroeville": {
+      "count": 5,
+      "postal_codes": [
+        "08318",
+        "08343"
+      ]
+    },
+    "Moorestown": {
+      "count": 76,
+      "postal_codes": [
+        "08054",
+        "08057"
+      ]
+    },
+    "Moorestown-Lenola": {
+      "count": 1,
+      "postal_codes": [
+        "08057"
+      ]
+    },
+    "Mount Ephraim": {
+      "count": 13,
+      "postal_codes": [
+        "08059"
+      ]
+    },
+    "Mount Holly": {
+      "count": 57,
+      "postal_codes": [
+        "08060"
+      ]
+    },
+    "Mount Holly,": {
+      "count": 1,
+      "postal_codes": [
+        "08060"
+      ]
+    },
+    "Mount Laurel": {
+      "count": 120,
+      "postal_codes": [
+        "08054"
+      ]
+    },
+    "Mount Laurel Township": {
+      "count": 5,
+      "postal_codes": [
+        "08054"
+      ]
+    },
+    "Mount Royal": {
+      "count": 2,
+      "postal_codes": [
+        "08061"
+      ]
+    },
+    "Mt Holly": {
+      "count": 1,
+      "postal_codes": [
+        "08060"
+      ]
+    },
+    "Mt Laurel": {
+      "count": 3,
+      "postal_codes": [
+        "08054"
+      ]
+    },
+    "Mt Laurel Twp, NJ": {
+      "count": 1,
+      "postal_codes": [
+        "08054"
+      ]
+    },
+    "Mt. Holly": {
+      "count": 1,
+      "postal_codes": [
+        "08060"
+      ]
+    },
+    "Mt. Laurel": {
+      "count": 12,
+      "postal_codes": [
+        "08054"
+      ]
+    },
+    "Mt.Laurel": {
+      "count": 3,
+      "postal_codes": [
+        "08054"
+      ]
+    },
+    "Mullica Hill": {
+      "count": 28,
+      "postal_codes": [
+        "08062"
+      ]
+    },
+    "National Park": {
+      "count": 4,
+      "postal_codes": [
+        "08063"
+      ]
+    },
+    "Newfield": {
+      "count": 4,
+      "postal_codes": [
+        "08344"
+      ]
+    },
+    "North Maple Shade": {
+      "count": 1,
+      "postal_codes": [
+        "08052"
+      ]
+    },
+    "Oaklyn": {
+      "count": 20,
+      "postal_codes": [
+        "08107"
+      ]
+    },
+    "Oldmans": {
+      "count": 1,
+      "postal_codes": [
+        "08067"
+      ]
+    },
+    "Palmyra": {
+      "count": 18,
+      "postal_codes": [
+        "08065"
+      ]
+    },
+    "Paulsboro": {
+      "count": 16,
+      "postal_codes": [
+        "08066"
+      ]
+    },
+    "Pedricktown": {
+      "count": 1,
+      "postal_codes": [
+        "08067"
+      ]
+    },
+    "Pemberton": {
+      "count": 6,
+      "postal_codes": [
+        "08068"
+      ]
+    },
+    "Pennington": {
+      "count": 2,
+      "postal_codes": [
+        "08534"
+      ]
+    },
+    "Penns Grove": {
+      "count": 15,
+      "postal_codes": [
+        "08069"
+      ]
+    },
+    "Pennsauken": {
+      "count": 64,
+      "postal_codes": [
+        "08109",
+        "08110"
+      ]
+    },
+    "Pennsauken Township": {
+      "count": 18,
+      "postal_codes": [
+        "08109",
+        "08110"
+      ]
+    },
+    "Pennsville": {
+      "count": 27,
+      "postal_codes": [
+        "08070"
+      ]
+    },
+    "Pennsville Township": {
+      "count": 5,
+      "postal_codes": [
+        "08070"
+      ]
+    },
+    "Pilesgrove": {
+      "count": 7,
+      "postal_codes": [
+        "08098"
+      ]
+    },
+    "Pine HIll": {
+      "count": 1,
+      "postal_codes": [
+        "08021"
+      ]
+    },
+    "Pine Hill": {
+      "count": 14,
+      "postal_codes": [
+        "08021"
+      ]
+    },
+    "Pitman": {
+      "count": 36,
+      "postal_codes": [
+        "08071"
+      ]
+    },
+    "Pittsgrove": {
+      "count": 2,
+      "postal_codes": [
+        "08318"
+      ]
+    },
+    "Quinton": {
+      "count": 1,
+      "postal_codes": [
+        "08072"
+      ]
+    },
+    "Richwood": {
+      "count": 1,
+      "postal_codes": [
+        "08074"
+      ]
+    },
+    "Riverside": {
+      "count": 17,
+      "postal_codes": [
+        "08075"
+      ]
+    },
+    "Riverton": {
+      "count": 9,
+      "postal_codes": [
+        "08077"
+      ]
+    },
+    "Roebling": {
+      "count": 4,
+      "postal_codes": [
+        "08518",
+        "08554"
+      ]
+    },
+    "Runnemede": {
+      "count": 23,
+      "postal_codes": [
+        "08029",
+        "08078"
+      ]
+    },
+    "Salem": {
+      "count": 10,
+      "postal_codes": [
+        "08079"
+      ]
+    },
+    "Sewell": {
+      "count": 96,
+      "postal_codes": [
+        "08071",
+        "08080"
+      ]
+    },
+    "Shamong": {
+      "count": 5,
+      "postal_codes": [
+        "08088"
+      ]
+    },
+    "Sicklerville": {
+      "count": 84,
+      "postal_codes": [
+        "08033",
+        "08081"
+      ]
+    },
+    "Somerdale": {
+      "count": 25,
+      "postal_codes": [
+        "08083"
+      ]
+    },
+    "South Cinnaminson": {
+      "count": 1,
+      "postal_codes": [
+        "08077"
+      ]
+    },
+    "South Harrison Township": {
+      "count": 1,
+      "postal_codes": [
+        "08062"
+      ]
+    },
+    "Southampton": {
+      "count": 7,
+      "postal_codes": [
+        "08088"
+      ]
+    },
+    "Southampton Township": {
+      "count": 3,
+      "postal_codes": [
+        "08088"
+      ]
+    },
+    "Stratford": {
+      "count": 21,
+      "postal_codes": [
+        "08049",
+        "08084",
+        "08322"
+      ]
+    },
+    "Swedesboro": {
+      "count": 45,
+      "postal_codes": [
+        "08085"
+      ]
+    },
+    "TRENTON": {
+      "count": 1,
+      "postal_codes": [
+        "08611"
+      ]
+    },
+    "Tabernacle": {
+      "count": 9,
+      "postal_codes": [
+        "08088"
+      ]
+    },
+    "Thorofare": {
+      "count": 7,
+      "postal_codes": [
+        "08086"
+      ]
+    },
+    "Titusville": {
+      "count": 2,
+      "postal_codes": [
+        "08560"
+      ]
+    },
+    "Tren": {
+      "count": 1,
+      "postal_codes": [
+        "08638"
+      ]
+    },
+    "Trenton": {
+      "count": 209,
+      "postal_codes": [
+        "08601",
+        "08608",
+        "08609",
+        "08610",
+        "08611",
+        "08618",
+        "08619",
+        "08620",
+        "08628",
+        "08629",
+        "08638",
+        "08648",
+        "08690",
+        "08691"
+      ]
+    },
+    "Turnersville": {
+      "count": 41,
+      "postal_codes": [
+        "08012",
+        "08059",
+        "08081"
+      ]
+    },
+    "Upper Pittsgrove": {
+      "count": 1,
+      "postal_codes": [
+        "08343"
+      ]
+    },
+    "Vincentown": {
+      "count": 5,
+      "postal_codes": [
+        "08088"
+      ]
+    },
+    "Vineland": {
+      "count": 1,
+      "postal_codes": [
+        "08344"
+      ]
+    },
+    "Voorhees": {
+      "count": 94,
+      "postal_codes": [
+        "08043"
+      ]
+    },
+    "Voorhees Township": {
+      "count": 38,
+      "postal_codes": [
+        "08043"
+      ]
+    },
+    "W Cherry Hill": {
+      "count": 1,
+      "postal_codes": [
+        "08002"
+      ]
+    },
+    "W. Berlin": {
+      "count": 1,
+      "postal_codes": [
+        "08091"
+      ]
+    },
+    "Washington Township": {
+      "count": 5,
+      "postal_codes": [
+        "08012",
+        "08080"
+      ]
+    },
+    "Washington Twp": {
+      "count": 1,
+      "postal_codes": [
+        "08080"
+      ]
+    },
+    "Waterford Works": {
+      "count": 3,
+      "postal_codes": [
+        "08037",
+        "08089"
+      ]
+    },
+    "Wenonah": {
+      "count": 5,
+      "postal_codes": [
+        "08090"
+      ]
+    },
+    "West Berlin": {
+      "count": 29,
+      "postal_codes": [
+        "08091"
+      ]
+    },
+    "West Collingswood Heights": {
+      "count": 1,
+      "postal_codes": [
+        "08059"
+      ]
+    },
+    "West Deptford": {
+      "count": 19,
+      "postal_codes": [
+        "08051",
+        "08066",
+        "08086",
+        "08096"
+      ]
+    },
+    "West Deptford Townsh": {
+      "count": 1,
+      "postal_codes": [
+        "08086"
+      ]
+    },
+    "West Mount Holly": {
+      "count": 1,
+      "postal_codes": [
+        "08060"
+      ]
+    },
+    "West Trenton": {
+      "count": 2,
+      "postal_codes": [
+        "08628"
+      ]
+    },
+    "Westampton": {
+      "count": 13,
+      "postal_codes": [
+        "08060"
+      ]
+    },
+    "Westampton Township": {
+      "count": 1,
+      "postal_codes": [
+        "08060"
+      ]
+    },
+    "Westhampton": {
+      "count": 1,
+      "postal_codes": [
+        "08060"
+      ]
+    },
+    "Westmont": {
+      "count": 18,
+      "postal_codes": [
+        "08108"
+      ]
+    },
+    "Westmont - Haddon Towsship": {
+      "count": 1,
+      "postal_codes": [
+        "08108"
+      ]
+    },
+    "Westville": {
+      "count": 19,
+      "postal_codes": [
+        "08093"
+      ]
+    },
+    "Williamstown": {
+      "count": 56,
+      "postal_codes": [
+        "08094"
+      ]
+    },
+    "Willingboro": {
+      "count": 34,
+      "postal_codes": [
+        "08046"
+      ]
+    },
+    "Willingboro Township": {
+      "count": 3,
+      "postal_codes": [
+        "08046"
+      ]
+    },
+    "Winslow Township": {
+      "count": 4,
+      "postal_codes": [
+        "08081"
+      ]
+    },
+    "Woodbury": {
+      "count": 62,
+      "postal_codes": [
+        "08096",
+        "08097"
+      ]
+    },
+    "Woodbury Heights": {
+      "count": 10,
+      "postal_codes": [
+        "08097"
+      ]
+    },
+    "Woodbury Hts.": {
+      "count": 1,
+      "postal_codes": [
+        "08097"
+      ]
+    },
+    "Woodstown": {
+      "count": 12,
+      "postal_codes": [
+        "08098"
+      ]
+    },
+    "Woolwich Township": {
+      "count": 5,
+      "postal_codes": [
+        "08085"
+      ]
+    },
+    "Woolwich Twp": {
+      "count": 1,
+      "postal_codes": [
+        "08085"
+      ]
+    },
+    "sewell": {
+      "count": 1,
+      "postal_codes": [
+        "08096"
+      ]
+    }
+  },
+  "NV": {
+    "Cold Springs": {
+      "count": 1,
+      "postal_codes": [
+        "89508"
+      ]
+    },
+    "Fernley": {
+      "count": 1,
+      "postal_codes": [
+        "89408"
+      ]
+    },
+    "Mount Laurel": {
+      "count": 1,
+      "postal_codes": [
+        "08054"
+      ]
+    },
+    "RENO": {
+      "count": 1,
+      "postal_codes": [
+        "89511"
+      ]
+    },
+    "Reno": {
+      "count": 1723,
+      "postal_codes": [
+        "89431",
+        "89433",
+        "89439",
+        "89501",
+        "89502",
+        "89503",
+        "89504",
+        "89506",
+        "89508",
+        "89509",
+        "89511",
+        "89512",
+        "89519",
+        "89521",
+        "89523",
+        "89555",
+        "89557",
+        "89595"
+      ]
+    },
+    "Reno Nevada": {
+      "count": 1,
+      "postal_codes": [
+        "89523"
+      ]
+    },
+    "Spanish Springs": {
+      "count": 11,
+      "postal_codes": [
+        "89436",
+        "89441"
+      ]
+    },
+    "Sparks": {
+      "count": 425,
+      "postal_codes": [
+        "89431",
+        "89432",
+        "89434",
+        "89436",
+        "89441",
+        "95661"
+      ]
+    },
+    "Stead": {
+      "count": 1,
+      "postal_codes": [
+        "89506"
+      ]
+    },
+    "Sun Valley": {
+      "count": 14,
+      "postal_codes": [
+        "89433"
+      ]
+    },
+    "VC Highlands": {
+      "count": 1,
+      "postal_codes": [
+        "89521"
+      ]
+    },
+    "Verdi": {
+      "count": 17,
+      "postal_codes": [
+        "89439"
+      ]
+    },
+    "Virginia City": {
+      "count": 14,
+      "postal_codes": [
+        "89440"
+      ]
+    },
+    "Washoe Valley": {
+      "count": 1,
+      "postal_codes": [
+        "89704"
+      ]
+    },
+    "reno": {
+      "count": 1,
+      "postal_codes": [
+        "89508"
+      ]
+    }
+  },
+  "PA": {
+    "Abington": {
+      "count": 63,
+      "postal_codes": [
+        "19001",
+        "19006",
+        "19027"
+      ]
+    },
+    "Abington Township": {
+      "count": 1,
+      "postal_codes": [
+        "19006"
+      ]
+    },
+    "Aldan": {
+      "count": 6,
+      "postal_codes": [
+        "19018"
+      ]
+    },
+    "Ambler": {
+      "count": 95,
+      "postal_codes": [
+        "19002"
+      ]
+    },
+    "Andalusia": {
+      "count": 1,
+      "postal_codes": [
+        "19020"
+      ]
+    },
+    "Ardmore": {
+      "count": 147,
+      "postal_codes": [
+        "19003"
+      ]
+    },
+    "Aston": {
+      "count": 56,
+      "postal_codes": [
+        "19014"
+      ]
+    },
+    "Audubon": {
+      "count": 22,
+      "postal_codes": [
+        "19403",
+        "19406"
+      ]
+    },
+    "Avondale": {
+      "count": 18,
+      "postal_codes": [
+        "19311"
+      ]
+    },
+    "Bala Cynwyd": {
+      "count": 60,
+      "postal_codes": [
+        "19004",
+        "19131"
+      ]
+    },
+    "Belmont Hills": {
+      "count": 1,
+      "postal_codes": [
+        "19004"
+      ]
+    },
+    "Bensalem": {
+      "count": 187,
+      "postal_codes": [
+        "19020"
+      ]
+    },
+    "Bensalem Township": {
+      "count": 1,
+      "postal_codes": [
+        "19020"
+      ]
+    },
+    "Bensalem. Pa": {
+      "count": 1,
+      "postal_codes": [
+        "19020"
+      ]
+    },
+    "Berwyn": {
+      "count": 50,
+      "postal_codes": [
+        "19312"
+      ]
+    },
+    "Bethel": {
+      "count": 1,
+      "postal_codes": [
+        "19060"
+      ]
+    },
+    "Bethel Township": {
+      "count": 1,
+      "postal_codes": [
+        "19060"
+      ]
+    },
+    "Birchrunville": {
+      "count": 2,
+      "postal_codes": [
+        "19421",
+        "19425"
+      ]
+    },
+    "Blooming Glen": {
+      "count": 1,
+      "postal_codes": [
+        "18911"
+      ]
+    },
+    "Blue Bell": {
+      "count": 76,
+      "postal_codes": [
+        "19002",
+        "19422"
+      ]
+    },
+    "Boothwyn": {
+      "count": 19,
+      "postal_codes": [
+        "19061"
+      ]
+    },
+    "Boyertown": {
+      "count": 26,
+      "postal_codes": [
+        "19512"
+      ]
+    },
+    "Bridgeport": {
+      "count": 18,
+      "postal_codes": [
+        "19405"
+      ]
+    },
+    "Bristol": {
+      "count": 64,
+      "postal_codes": [
+        "19007"
+      ]
+    },
+    "Bristol Twp": {
+      "count": 2,
+      "postal_codes": [
+        "19056",
+        "19057"
+      ]
+    },
+    "Brookhaven": {
+      "count": 31,
+      "postal_codes": [
+        "19015"
+      ]
+    },
+    "Broomall": {
+      "count": 50,
+      "postal_codes": [
+        "19008"
+      ]
+    },
+    "Bryn Athyn": {
+      "count": 2,
+      "postal_codes": [
+        "19009"
+      ]
+    },
+    "Bryn Mawr": {
+      "count": 109,
+      "postal_codes": [
+        "19010"
+      ]
+    },
+    "Buckingham": {
+      "count": 15,
+      "postal_codes": [
+        "18901",
+        "18902",
+        "18912",
+        "18938"
+      ]
+    },
+    "Bucks": {
+      "count": 2,
+      "postal_codes": [
+        "18940",
+        "19020"
+      ]
+    },
+    "CLIFTON HEIGHTS": {
+      "count": 1,
+      "postal_codes": [
+        "19018"
+      ]
+    },
+    "Caln": {
+      "count": 1,
+      "postal_codes": [
+        "19335"
+      ]
+    },
+    "Carversville": {
+      "count": 1,
+      "postal_codes": [
+        "18913"
+      ]
+    },
+    "Cedars": {
+      "count": 4,
+      "postal_codes": [
+        "19423"
+      ]
+    },
+    "Chadds Ford": {
+      "count": 49,
+      "postal_codes": [
+        "19317",
+        "19342",
+        "19382"
+      ]
+    },
+    "Chalfont": {
+      "count": 48,
+      "postal_codes": [
+        "18901",
+        "18914"
+      ]
+    },
+    "Charlotte": {
+      "count": 1,
+      "postal_codes": [
+        "28217"
+      ]
+    },
+    "Cheltenham": {
+      "count": 10,
+      "postal_codes": [
+        "19012"
+      ]
+    },
+    "Cheltenham Township": {
+      "count": 2,
+      "postal_codes": [
+        "19012",
+        "19027"
+      ]
+    },
+    "Chester": {
+      "count": 30,
+      "postal_codes": [
+        "19013",
+        "19078"
+      ]
+    },
+    "Chester Springs": {
+      "count": 32,
+      "postal_codes": [
+        "19425"
+      ]
+    },
+    "Chesterbrook": {
+      "count": 4,
+      "postal_codes": [
+        "19087"
+      ]
+    },
+    "Chichester": {
+      "count": 2,
+      "postal_codes": [
+        "19061"
+      ]
+    },
+    "Churchville": {
+      "count": 1,
+      "postal_codes": [
+        "18966"
+      ]
+    },
+    "Clifton Heights": {
+      "count": 35,
+      "postal_codes": [
+        "19018"
+      ]
+    },
+    "Coatesville": {
+      "count": 10,
+      "postal_codes": [
+        "19320"
+      ]
+    },
+    "Collegeville": {
+      "count": 93,
+      "postal_codes": [
+        "10426",
+        "19426"
+      ]
+    },
+    "Collingdale": {
+      "count": 18,
+      "postal_codes": [
+        "19023",
+        "19036"
+      ]
+    },
+    "Colmar": {
+      "count": 12,
+      "postal_codes": [
+        "18915"
+      ]
+    },
+    "Concord Township": {
+      "count": 1,
+      "postal_codes": [
+        "19342"
+      ]
+    },
+    "Concordville": {
+      "count": 4,
+      "postal_codes": [
+        "19317",
+        "19331",
+        "19342"
+      ]
+    },
+    "Conshohocken": {
+      "count": 121,
+      "postal_codes": [
+        "19428"
+      ]
+    },
+    "Conshohoeken": {
+      "count": 1,
+      "postal_codes": [
+        "19428"
+      ]
+    },
+    "Cornwells Heights": {
+      "count": 1,
+      "postal_codes": [
+        "19020"
+      ]
+    },
+    "Croydon": {
+      "count": 22,
+      "postal_codes": [
+        "19021"
+      ]
+    },
+    "Crum Lynne": {
+      "count": 2,
+      "postal_codes": [
+        "19022"
+      ]
+    },
+    "Darby": {
+      "count": 12,
+      "postal_codes": [
+        "19023",
+        "76903"
+      ]
+    },
+    "Devon": {
+      "count": 15,
+      "postal_codes": [
+        "19333"
+      ]
+    },
+    "Douglassville": {
+      "count": 1,
+      "postal_codes": [
+        "19518"
+      ]
+    },
+    "Downingtown": {
+      "count": 98,
+      "postal_codes": [
+        "19335"
+      ]
+    },
+    "Doylestown": {
+      "count": 197,
+      "postal_codes": [
+        "18901",
+        "18902",
+        "18923",
+        "18949"
+      ]
+    },
+    "Dresher": {
+      "count": 28,
+      "postal_codes": [
+        "19025"
+      ]
+    },
+    "Drexel Hill": {
+      "count": 78,
+      "postal_codes": [
+        "19026"
+      ]
+    },
+    "Dublin": {
+      "count": 12,
+      "postal_codes": [
+        "18917",
+        "18944"
+      ]
+    },
+    "E. Norristown": {
+      "count": 1,
+      "postal_codes": [
+        "19401"
+      ]
+    },
+    "Eagleville": {
+      "count": 14,
+      "postal_codes": [
+        "19403",
+        "19409"
+      ]
+    },
+    "East Falls": {
+      "count": 1,
+      "postal_codes": [
+        "19129"
+      ]
+    },
+    "East Greenville": {
+      "count": 1,
+      "postal_codes": [
+        "18041"
+      ]
+    },
+    "East Lansdowne": {
+      "count": 2,
+      "postal_codes": [
+        "19050"
+      ]
+    },
+    "East Norriton": {
+      "count": 36,
+      "postal_codes": [
+        "19401",
+        "19403"
+      ]
+    },
+    "Eddington": {
+      "count": 1,
+      "postal_codes": [
+        "19020"
+      ]
+    },
+    "Eddystone": {
+      "count": 9,
+      "postal_codes": [
+        "19022"
+      ]
+    },
+    "Edgemont": {
+      "count": 1,
+      "postal_codes": [
+        "19073"
+      ]
+    },
+    "Edgmont": {
+      "count": 1,
+      "postal_codes": [
+        "19073"
+      ]
+    },
+    "Elkins Park": {
+      "count": 49,
+      "postal_codes": [
+        "19027"
+      ]
+    },
+    "Elverson": {
+      "count": 2,
+      "postal_codes": [
+        "19520"
+      ]
+    },
+    "Erdenheim": {
+      "count": 2,
+      "postal_codes": [
+        "19038"
+      ]
+    },
+    "Essington": {
+      "count": 14,
+      "postal_codes": [
+        "19029"
+      ]
+    },
+    "Exton": {
+      "count": 157,
+      "postal_codes": [
+        "19341"
+      ]
+    },
+    "Fairless Hills": {
+      "count": 46,
+      "postal_codes": [
+        "18938",
+        "19030",
+        "19054"
+      ]
+    },
+    "Fairview Village": {
+      "count": 2,
+      "postal_codes": [
+        "19403"
+      ]
+    },
+    "Fallsington": {
+      "count": 1,
+      "postal_codes": [
+        "19054"
+      ]
+    },
+    "Feasterville": {
+      "count": 24,
+      "postal_codes": [
+        "19053"
+      ]
+    },
+    "Feasterville Trevose": {
+      "count": 33,
+      "postal_codes": [
+        "19053"
+      ]
+    },
+    "Feasterville-Trevose": {
+      "count": 30,
+      "postal_codes": [
+        "19053"
+      ]
+    },
+    "Feasterville-trevose": {
+      "count": 1,
+      "postal_codes": [
+        "19053"
+      ]
+    },
+    "Festerville": {
+      "count": 1,
+      "postal_codes": [
+        "19053"
+      ]
+    },
+    "Flourtown": {
+      "count": 23,
+      "postal_codes": [
+        "19031"
+      ]
+    },
+    "Folcroft": {
+      "count": 17,
+      "postal_codes": [
+        "19032"
+      ]
+    },
+    "Folsom": {
+      "count": 46,
+      "postal_codes": [
+        "19033"
+      ]
+    },
+    "Fort Washington": {
+      "count": 17,
+      "postal_codes": [
+        "19034"
+      ]
+    },
+    "Fountainville": {
+      "count": 1,
+      "postal_codes": [
+        "18923"
+      ]
+    },
+    "Franconia": {
+      "count": 2,
+      "postal_codes": [
+        "18924",
+        "19438"
+      ]
+    },
+    "Frazer": {
+      "count": 19,
+      "postal_codes": [
+        "19355"
+      ]
+    },
+    "Furlong": {
+      "count": 4,
+      "postal_codes": [
+        "18925"
+      ]
+    },
+    "Gardenville": {
+      "count": 1,
+      "postal_codes": [
+        "18947"
+      ]
+    },
+    "Garnet Valley": {
+      "count": 13,
+      "postal_codes": [
+        "19060",
+        "19061"
+      ]
+    },
+    "Gilbertsville": {
+      "count": 23,
+      "postal_codes": [
+        "19512",
+        "19525"
+      ]
+    },
+    "Gladwyne": {
+      "count": 3,
+      "postal_codes": [
+        "19035"
+      ]
+    },
+    "Glen Mills": {
+      "count": 81,
+      "postal_codes": [
+        "19342"
+      ]
+    },
+    "Glenmoore": {
+      "count": 7,
+      "postal_codes": [
+        "19343"
+      ]
+    },
+    "Glenmore": {
+      "count": 1,
+      "postal_codes": [
+        "19343"
+      ]
+    },
+    "Glenoldan": {
+      "count": 1,
+      "postal_codes": [
+        "19036"
+      ]
+    },
+    "Glenolden": {
+      "count": 31,
+      "postal_codes": [
+        "19036"
+      ]
+    },
+    "Glenside": {
+      "count": 78,
+      "postal_codes": [
+        "19001",
+        "19038"
+      ]
+    },
+    "Gradyville": {
+      "count": 1,
+      "postal_codes": [
+        "19342"
+      ]
+    },
+    "Green Lane": {
+      "count": 6,
+      "postal_codes": [
+        "18054"
+      ]
+    },
+    "Gulph Mills": {
+      "count": 1,
+      "postal_codes": [
+        "19428"
+      ]
+    },
+    "Gwynedd": {
+      "count": 2,
+      "postal_codes": [
+        "19436"
+      ]
+    },
+    "Gwynedd Valley": {
+      "count": 1,
+      "postal_codes": [
+        "19437"
+      ]
+    },
+    "Harleysville": {
+      "count": 43,
+      "postal_codes": [
+        "19438"
+      ]
+    },
+    "Hatboro": {
+      "count": 72,
+      "postal_codes": [
+        "19040"
+      ]
+    },
+    "Hatfield": {
+      "count": 40,
+      "postal_codes": [
+        "18915",
+        "19440",
+        "19446"
+      ]
+    },
+    "Haverford": {
+      "count": 9,
+      "postal_codes": [
+        "19041"
+      ]
+    },
+    "Havertown": {
+      "count": 110,
+      "postal_codes": [
+        "19083"
+      ]
+    },
+    "Hilltown": {
+      "count": 2,
+      "postal_codes": [
+        "18927",
+        "18969"
+      ]
+    },
+    "Holicong": {
+      "count": 2,
+      "postal_codes": [
+        "18928"
+      ]
+    },
+    "Holland": {
+      "count": 12,
+      "postal_codes": [
+        "18966"
+      ]
+    },
+    "Holland Southampton": {
+      "count": 1,
+      "postal_codes": [
+        "18966"
+      ]
+    },
+    "Hollywood": {
+      "count": 1,
+      "postal_codes": [
+        "19046"
+      ]
+    },
+    "Holmes": {
+      "count": 15,
+      "postal_codes": [
+        "19043"
+      ]
+    },
+    "Horsham": {
+      "count": 71,
+      "postal_codes": [
+        "19002",
+        "19040",
+        "19044"
+      ]
+    },
+    "Hulmeville": {
+      "count": 4,
+      "postal_codes": [
+        "19047"
+      ]
+    },
+    "Huntingdon Valley": {
+      "count": 53,
+      "postal_codes": [
+        "19006"
+      ]
+    },
+    "Ivyland": {
+      "count": 7,
+      "postal_codes": [
+        "18974"
+      ]
+    },
+    "Jamison": {
+      "count": 18,
+      "postal_codes": [
+        "18929"
+      ]
+    },
+    "Jeffersonville": {
+      "count": 5,
+      "postal_codes": [
+        "19403"
+      ]
+    },
+    "Jenkintown": {
+      "count": 77,
+      "postal_codes": [
+        "19046"
+      ]
+    },
+    "Kennett Square": {
+      "count": 103,
+      "postal_codes": [
+        "19348"
+      ]
+    },
+    "Kimberton": {
+      "count": 4,
+      "postal_codes": [
+        "19442",
+        "19460"
+      ]
+    },
+    "King Of Prussia": {
+      "count": 42,
+      "postal_codes": [
+        "19406"
+      ]
+    },
+    "King of Prussia": {
+      "count": 189,
+      "postal_codes": [
+        "19406",
+        "19487"
+      ]
+    },
+    "Kirklyn": {
+      "count": 1,
+      "postal_codes": [
+        "19082"
+      ]
+    },
+    "Kulpsville": {
+      "count": 8,
+      "postal_codes": [
+        "19443",
+        "19446"
+      ]
+    },
+    "LANGHORNE": {
+      "count": 1,
+      "postal_codes": [
+        "19047"
+      ]
+    },
+    "LANSDALE": {
+      "count": 1,
+      "postal_codes": [
+        "19446"
+      ]
+    },
+    "LOWER MERION": {
+      "count": 1,
+      "postal_codes": [
+        "19010"
+      ]
+    },
+    "LOWER PROVIDENCE": {
+      "count": 1,
+      "postal_codes": [
+        "19403"
+      ]
+    },
+    "Lafayette Hill": {
+      "count": 26,
+      "postal_codes": [
+        "19444"
+      ]
+    },
+    "Lahaska": {
+      "count": 25,
+      "postal_codes": [
+        "18931",
+        "18938"
+      ]
+    },
+    "Landsdale": {
+      "count": 1,
+      "postal_codes": [
+        "19446"
+      ]
+    },
+    "Langhorne": {
+      "count": 114,
+      "postal_codes": [
+        "19030",
+        "19046",
+        "19047"
+      ]
+    },
+    "Lansdale": {
+      "count": 158,
+      "postal_codes": [
+        "19446",
+        "19454"
+      ]
+    },
+    "Lansdowne": {
+      "count": 45,
+      "postal_codes": [
+        "19050"
+      ]
+    },
+    "Lederach": {
+      "count": 3,
+      "postal_codes": [
+        "19438",
+        "19450"
+      ]
+    },
+    "Lenni": {
+      "count": 1,
+      "postal_codes": [
+        "19052"
+      ]
+    },
+    "Lester": {
+      "count": 3,
+      "postal_codes": [
+        "19029"
+      ]
+    },
+    "Levittown": {
+      "count": 129,
+      "postal_codes": [
+        "19054",
+        "19055",
+        "19056",
+        "19057"
+      ]
+    },
+    "Lima": {
+      "count": 1,
+      "postal_codes": [
+        "19063"
+      ]
+    },
+    "Limerick": {
+      "count": 20,
+      "postal_codes": [
+        "19468"
+      ]
+    },
+    "Line Lexington": {
+      "count": 3,
+      "postal_codes": [
+        "18932"
+      ]
+    },
+    "Linfield": {
+      "count": 2,
+      "postal_codes": [
+        "19468"
+      ]
+    },
+    "Linwood": {
+      "count": 6,
+      "postal_codes": [
+        "19061"
+      ]
+    },
+    "Lionville": {
+      "count": 3,
+      "postal_codes": [
+        "19341",
+        "19353"
+      ]
+    },
+    "London Grove": {
+      "count": 1,
+      "postal_codes": [
+        "19311"
+      ]
+    },
+    "Lower Southampton Township": {
+      "count": 2,
+      "postal_codes": [
+        "19006",
+        "19053"
+      ]
+    },
+    "MEDIA": {
+      "count": 1,
+      "postal_codes": [
+        "19063"
+      ]
+    },
+    "Malvern": {
+      "count": 126,
+      "postal_codes": [
+        "19355"
+      ]
+    },
+    "Manayunk": {
+      "count": 7,
+      "postal_codes": [
+        "19127"
+      ]
+    },
+    "Maple Glen": {
+      "count": 16,
+      "postal_codes": [
+        "19002",
+        "19044"
+      ]
+    },
+    "Marcus Hook": {
+      "count": 14,
+      "postal_codes": [
+        "19061"
+      ]
+    },
+    "Media": {
+      "count": 158,
+      "postal_codes": [
+        "19063",
+        "19064",
+        "19065",
+        "19603"
+      ]
+    },
+    "Melrose Park": {
+      "count": 2,
+      "postal_codes": [
+        "19027"
+      ]
+    },
+    "Mendenhall": {
+      "count": 4,
+      "postal_codes": [
+        "19357"
+      ]
+    },
+    "Merion Station": {
+      "count": 9,
+      "postal_codes": [
+        "19066"
+      ]
+    },
+    "Middletown": {
+      "count": 1,
+      "postal_codes": [
+        "19047"
+      ]
+    },
+    "Milmont Park": {
+      "count": 2,
+      "postal_codes": [
+        "19033"
+      ]
+    },
+    "Mont Clare": {
+      "count": 2,
+      "postal_codes": [
+        "19453"
+      ]
+    },
+    "Montgomery": {
+      "count": 1,
+      "postal_codes": [
+        "19454"
+      ]
+    },
+    "Montgomeryville": {
+      "count": 23,
+      "postal_codes": [
+        "18936",
+        "19446",
+        "19454"
+      ]
+    },
+    "Morrisville": {
+      "count": 54,
+      "postal_codes": [
+        "19067"
+      ]
+    },
+    "Morton": {
+      "count": 16,
+      "postal_codes": [
+        "19070"
+      ]
+    },
+    "N.Wales": {
+      "count": 1,
+      "postal_codes": [
+        "19454"
+      ]
+    },
+    "NORTH WALES": {
+      "count": 1,
+      "postal_codes": [
+        "19454"
+      ]
+    },
+    "Narberth": {
+      "count": 42,
+      "postal_codes": [
+        "19072"
+      ]
+    },
+    "New Britain": {
+      "count": 5,
+      "postal_codes": [
+        "18901"
+      ]
+    },
+    "New Hope": {
+      "count": 134,
+      "postal_codes": [
+        "18938"
+      ]
+    },
+    "Newportville": {
+      "count": 1,
+      "postal_codes": [
+        "19056"
+      ]
+    },
+    "Newton": {
+      "count": 1,
+      "postal_codes": [
+        "18940"
+      ]
+    },
+    "Newtown": {
+      "count": 132,
+      "postal_codes": [
+        "18940",
+        "18954"
+      ]
+    },
+    "Newtown Sqaure": {
+      "count": 1,
+      "postal_codes": [
+        "19073"
+      ]
+    },
+    "Newtown Square": {
+      "count": 68,
+      "postal_codes": [
+        "19017",
+        "19073"
+      ]
+    },
+    "Norristown": {
+      "count": 176,
+      "postal_codes": [
+        "19401",
+        "19403",
+        "19409"
+      ]
+    },
+    "North Coventry Township": {
+      "count": 1,
+      "postal_codes": [
+        "19465"
+      ]
+    },
+    "North Wales": {
+      "count": 109,
+      "postal_codes": [
+        "19454",
+        "19477"
+      ]
+    },
+    "Norwood": {
+      "count": 7,
+      "postal_codes": [
+        "19074"
+      ]
+    },
+    "Oaks": {
+      "count": 17,
+      "postal_codes": [
+        "19425",
+        "19426",
+        "19456",
+        "19460"
+      ]
+    },
+    "Oreland": {
+      "count": 13,
+      "postal_codes": [
+        "19075"
+      ]
+    },
+    "PHILA": {
+      "count": 2,
+      "postal_codes": [
+        "19134",
+        "19142"
+      ]
+    },
+    "POTTSTOWN": {
+      "count": 1,
+      "postal_codes": [
+        "19464"
+      ]
+    },
+    "Paoli": {
+      "count": 58,
+      "postal_codes": [
+        "19301"
+      ]
+    },
+    "Parkside": {
+      "count": 1,
+      "postal_codes": [
+        "19015"
+      ]
+    },
+    "Penndel": {
+      "count": 14,
+      "postal_codes": [
+        "19047"
+      ]
+    },
+    "Pennsburg": {
+      "count": 14,
+      "postal_codes": [
+        "18073"
+      ]
+    },
+    "Pennsylvania": {
+      "count": 2,
+      "postal_codes": [
+        "19044",
+        "19124"
+      ]
+    },
+    "Perkasie": {
+      "count": 42,
+      "postal_codes": [
+        "18944"
+      ]
+    },
+    "Perkiomenville": {
+      "count": 4,
+      "postal_codes": [
+        "18074"
+      ]
+    },
+    "Phila": {
+      "count": 1,
+      "postal_codes": [
+        "19140"
+      ]
+    },
+    "Philadelphia": {
+      "count": 6896,
+      "postal_codes": [
+        "08340",
+        "19004",
+        "19019",
+        "19087",
+        "19092",
+        "19102",
+        "19103",
+        "19104",
+        "19106",
+        "19107",
+        "19108",
+        "19111",
+        "19112",
+        "19113",
+        "19114",
+        "19115",
+        "19116",
+        "19118",
+        "19119",
+        "19120",
+        "19121",
+        "19122",
+        "19123",
+        "19124",
+        "19125",
+        "19126",
+        "19127",
+        "19128",
+        "19129",
+        "19130",
+        "19131",
+        "19132",
+        "19133",
+        "19134",
+        "19135",
+        "19136",
+        "19137",
+        "19138",
+        "19139",
+        "19140",
+        "19141",
+        "19142",
+        "19143",
+        "19144",
+        "19145",
+        "19146",
+        "19147",
+        "19148",
+        "19149",
+        "19150",
+        "19151",
+        "19152",
+        "19153",
+        "19154",
+        "19155",
+        "19176",
+        "19195",
+        "19444",
+        "19454"
+      ]
+    },
+    "Philadelphia PA": {
+      "count": 1,
+      "postal_codes": [
+        "19154"
+      ]
+    },
+    "Philadephia": {
+      "count": 2,
+      "postal_codes": [
+        "19103",
+        "19148"
+      ]
+    },
+    "Phoenixville": {
+      "count": 167,
+      "postal_codes": [
+        "19403",
+        "19426",
+        "19460"
+      ]
+    },
+    "Pine Forge": {
+      "count": 1,
+      "postal_codes": [
+        "19548"
+      ]
+    },
+    "Pineville": {
+      "count": 2,
+      "postal_codes": [
+        "18946"
+      ]
+    },
+    "Pipersville": {
+      "count": 17,
+      "postal_codes": [
+        "18947"
+      ]
+    },
+    "Plumsteadville": {
+      "count": 7,
+      "postal_codes": [
+        "18902",
+        "18949"
+      ]
+    },
+    "Plymouth Meeting": {
+      "count": 43,
+      "postal_codes": [
+        "19462"
+      ]
+    },
+    "Pottstown": {
+      "count": 153,
+      "postal_codes": [
+        "19464",
+        "19465"
+      ]
+    },
+    "Primos": {
+      "count": 8,
+      "postal_codes": [
+        "19018"
+      ]
+    },
+    "Prospect Park": {
+      "count": 26,
+      "postal_codes": [
+        "19076",
+        "19136"
+      ]
+    },
+    "Quakertown": {
+      "count": 37,
+      "postal_codes": [
+        "18951"
+      ]
+    },
+    "RADNOR": {
+      "count": 1,
+      "postal_codes": [
+        "19010"
+      ]
+    },
+    "Radnor": {
+      "count": 16,
+      "postal_codes": [
+        "19087"
+      ]
+    },
+    "Red Hill": {
+      "count": 3,
+      "postal_codes": [
+        "18076"
+      ]
+    },
+    "Richboro": {
+      "count": 40,
+      "postal_codes": [
+        "18954"
+      ]
+    },
+    "Ridley": {
+      "count": 1,
+      "postal_codes": [
+        "19078"
+      ]
+    },
+    "Ridley Park": {
+      "count": 25,
+      "postal_codes": [
+        "19078"
+      ]
+    },
+    "Rockledge": {
+      "count": 7,
+      "postal_codes": [
+        "19046"
+      ]
+    },
+    "Rosemont": {
+      "count": 7,
+      "postal_codes": [
+        "19010"
+      ]
+    },
+    "Roslyn": {
+      "count": 7,
+      "postal_codes": [
+        "19001"
+      ]
+    },
+    "Royersford": {
+      "count": 87,
+      "postal_codes": [
+        "19468",
+        "19473"
+      ]
+    },
+    "Saint Peters": {
+      "count": 3,
+      "postal_codes": [
+        "19470"
+      ]
+    },
+    "Sanatoga": {
+      "count": 1,
+      "postal_codes": [
+        "19464"
+      ]
+    },
+    "Sassamansville": {
+      "count": 1,
+      "postal_codes": [
+        "19472"
+      ]
+    },
+    "Schwenksville": {
+      "count": 23,
+      "postal_codes": [
+        "19473",
+        "19474"
+      ]
+    },
+    "Secane": {
+      "count": 6,
+      "postal_codes": [
+        "19018"
+      ]
+    },
+    "Sellersville": {
+      "count": 17,
+      "postal_codes": [
+        "18960"
+      ]
+    },
+    "Sharon Hill": {
+      "count": 9,
+      "postal_codes": [
+        "19079"
+      ]
+    },
+    "Silverdale": {
+      "count": 2,
+      "postal_codes": [
+        "18962"
+      ]
+    },
+    "Skippack": {
+      "count": 29,
+      "postal_codes": [
+        "19426",
+        "19438",
+        "19473",
+        "19474"
+      ]
+    },
+    "Skippack Village": {
+      "count": 4,
+      "postal_codes": [
+        "19474"
+      ]
+    },
+    "Solebury": {
+      "count": 1,
+      "postal_codes": [
+        "18963"
+      ]
+    },
+    "Souderton": {
+      "count": 46,
+      "postal_codes": [
+        "18964",
+        "18976"
+      ]
+    },
+    "Southampton": {
+      "count": 62,
+      "postal_codes": [
+        "18966"
+      ]
+    },
+    "Southwest Philadelphia": {
+      "count": 4,
+      "postal_codes": [
+        "19153"
+      ]
+    },
+    "Spring City": {
+      "count": 24,
+      "postal_codes": [
+        "19475"
+      ]
+    },
+    "Spring House": {
+      "count": 16,
+      "postal_codes": [
+        "19002",
+        "19477"
+      ]
+    },
+    "Springfield": {
+      "count": 108,
+      "postal_codes": [
+        "19064"
+      ]
+    },
+    "St. Davids": {
+      "count": 1,
+      "postal_codes": [
+        "19087"
+      ]
+    },
+    "Stowe": {
+      "count": 6,
+      "postal_codes": [
+        "19464"
+      ]
+    },
+    "Sumneytown": {
+      "count": 3,
+      "postal_codes": [
+        "18054",
+        "18084"
+      ]
+    },
+    "Swarthmore": {
+      "count": 16,
+      "postal_codes": [
+        "19081"
+      ]
+    },
+    "Swedeland": {
+      "count": 1,
+      "postal_codes": [
+        "19406"
+      ]
+    },
+    "Telford": {
+      "count": 17,
+      "postal_codes": [
+        "18964",
+        "18969",
+        "18971"
+      ]
+    },
+    "Thorndale": {
+      "count": 17,
+      "postal_codes": [
+        "19372"
+      ]
+    },
+    "Thornton": {
+      "count": 2,
+      "postal_codes": [
+        "19373"
+      ]
+    },
+    "Tinicum": {
+      "count": 1,
+      "postal_codes": [
+        "19029"
+      ]
+    },
+    "Toughkenamon": {
+      "count": 6,
+      "postal_codes": [
+        "19374"
+      ]
+    },
+    "Trainer": {
+      "count": 1,
+      "postal_codes": [
+        "19061"
+      ]
+    },
+    "Trappe": {
+      "count": 9,
+      "postal_codes": [
+        "19426"
+      ]
+    },
+    "Trevose": {
+      "count": 24,
+      "postal_codes": [
+        "19053"
+      ]
+    },
+    "Trooper": {
+      "count": 8,
+      "postal_codes": [
+        "19403"
+      ]
+    },
+    "Tylersport": {
+      "count": 1,
+      "postal_codes": [
+        "18969"
+      ]
+    },
+    "UPPER MORELAND": {
+      "count": 1,
+      "postal_codes": [
+        "19006"
+      ]
+    },
+    "Unionville": {
+      "count": 3,
+      "postal_codes": [
+        "19348",
+        "19375"
+      ]
+    },
+    "Upland": {
+      "count": 1,
+      "postal_codes": [
+        "19013"
+      ]
+    },
+    "Upper Chichester": {
+      "count": 7,
+      "postal_codes": [
+        "19061"
+      ]
+    },
+    "Upper Darby": {
+      "count": 111,
+      "postal_codes": [
+        "19026",
+        "19082"
+      ]
+    },
+    "Upper Gwynedd": {
+      "count": 1,
+      "postal_codes": [
+        "19446"
+      ]
+    },
+    "Upper Pottsgrove": {
+      "count": 1,
+      "postal_codes": [
+        "19464"
+      ]
+    },
+    "Upper Southampton": {
+      "count": 1,
+      "postal_codes": [
+        "18966"
+      ]
+    },
+    "Upper Southampton Township": {
+      "count": 1,
+      "postal_codes": [
+        "18966"
+      ]
+    },
+    "Villanova": {
+      "count": 14,
+      "postal_codes": [
+        "19085"
+      ]
+    },
+    "Virtual": {
+      "count": 1,
+      "postal_codes": [
+        "19428"
+      ]
+    },
+    "W.Chester": {
+      "count": 1,
+      "postal_codes": [
+        "19380"
+      ]
+    },
+    "WEST CHESTER": {
+      "count": 1,
+      "postal_codes": [
+        "19380"
+      ]
+    },
+    "WILLOW GROVE": {
+      "count": 1,
+      "postal_codes": [
+        "19090"
+      ]
+    },
+    "Wallingford": {
+      "count": 1,
+      "postal_codes": [
+        "19086"
+      ]
+    },
+    "Warminster": {
+      "count": 104,
+      "postal_codes": [
+        "18974",
+        "18976",
+        "18979"
+      ]
+    },
+    "Warrington": {
+      "count": 75,
+      "postal_codes": [
+        "18976"
+      ]
+    },
+    "Warrington Township": {
+      "count": 2,
+      "postal_codes": [
+        "18976"
+      ]
+    },
+    "Washington Crossing": {
+      "count": 7,
+      "postal_codes": [
+        "18977"
+      ]
+    },
+    "Wayne": {
+      "count": 151,
+      "postal_codes": [
+        "19080",
+        "19087",
+        "19333"
+      ]
+    },
+    "West Bradford Township": {
+      "count": 1,
+      "postal_codes": [
+        "19320"
+      ]
+    },
+    "West Chester": {
+      "count": 326,
+      "postal_codes": [
+        "19380",
+        "19382",
+        "19383"
+      ]
+    },
+    "West Chester PA": {
+      "count": 1,
+      "postal_codes": [
+        "19380"
+      ]
+    },
+    "West Conshohocken": {
+      "count": 6,
+      "postal_codes": [
+        "19428"
+      ]
+    },
+    "West Norriton": {
+      "count": 1,
+      "postal_codes": [
+        "19403"
+      ]
+    },
+    "West Philadelphia": {
+      "count": 1,
+      "postal_codes": [
+        "19143"
+      ]
+    },
+    "West Point": {
+      "count": 3,
+      "postal_codes": [
+        "19486"
+      ]
+    },
+    "Westtown": {
+      "count": 1,
+      "postal_codes": [
+        "19395"
+      ]
+    },
+    "Willow Grove": {
+      "count": 102,
+      "postal_codes": [
+        "19090"
+      ]
+    },
+    "Woodlyn": {
+      "count": 17,
+      "postal_codes": [
+        "19094"
+      ]
+    },
+    "Worcester": {
+      "count": 4,
+      "postal_codes": [
+        "19446",
+        "19490"
+      ]
+    },
+    "Wrightstown": {
+      "count": 3,
+      "postal_codes": [
+        "18940"
+      ]
+    },
+    "Wycombe": {
+      "count": 1,
+      "postal_codes": [
+        "18980"
+      ]
+    },
+    "Wyncote": {
+      "count": 26,
+      "postal_codes": [
+        "19038",
+        "19095",
+        "19150"
+      ]
+    },
+    "Wyndmoor": {
+      "count": 10,
+      "postal_codes": [
+        "19038"
+      ]
+    },
+    "Wynnewood": {
+      "count": 35,
+      "postal_codes": [
+        "19003",
+        "19096"
+      ]
+    },
+    "Yardley": {
+      "count": 61,
+      "postal_codes": [
+        "19067"
+      ]
+    },
+    "Yardley Boro": {
+      "count": 1,
+      "postal_codes": [
+        "19067"
+      ]
+    },
+    "Yeadon": {
+      "count": 7,
+      "postal_codes": [
+        "19050"
+      ]
+    },
+    "Zieglerville": {
+      "count": 2,
+      "postal_codes": [
+        "19492"
+      ]
+    },
+    "erdenheim": {
+      "count": 1,
+      "postal_codes": [
+        "19038"
+      ]
+    },
+    "philadelphia": {
+      "count": 3,
+      "postal_codes": [
+        "19103",
+        "19121",
+        "19123"
+      ]
+    },
+    "spring city": {
+      "count": 1,
+      "postal_codes": [
+        "19475"
+      ]
+    }
+  },
+  "TN": {
+    "Antioch": {
+      "count": 110,
+      "postal_codes": [
+        "37011",
+        "37013",
+        "37211",
+        "37217"
+      ]
+    },
+    "Ashland": {
+      "count": 1,
+      "postal_codes": [
+        "37015"
+      ]
+    },
+    "Ashland City": {
+      "count": 26,
+      "postal_codes": [
+        "37015"
+      ]
+    },
+    "Belle Meade": {
+      "count": 3,
+      "postal_codes": [
+        "37205"
+      ]
+    },
+    "Bellevue": {
+      "count": 16,
+      "postal_codes": [
+        "37209",
+        "37221"
+      ]
+    },
+    "Berry Hill": {
+      "count": 3,
+      "postal_codes": [
+        "37204"
+      ]
+    },
+    "Brentwood": {
+      "count": 193,
+      "postal_codes": [
+        "37027",
+        "37067",
+        "37207",
+        "37211"
+      ]
+    },
+    "Cane Ridge": {
+      "count": 1,
+      "postal_codes": [
+        "37013"
+      ]
+    },
+    "Clarksville": {
+      "count": 1,
+      "postal_codes": [
+        "37043"
+      ]
+    },
+    "DONELSON": {
+      "count": 1,
+      "postal_codes": [
+        "37214"
+      ]
+    },
+    "East Nashville": {
+      "count": 2,
+      "postal_codes": [
+        "37206"
+      ]
+    },
+    "Fairview": {
+      "count": 2,
+      "postal_codes": [
+        "37062"
+      ]
+    },
+    "Franklin": {
+      "count": 513,
+      "postal_codes": [
+        "37027",
+        "37064",
+        "37065",
+        "37067",
+        "37068",
+        "37069"
+      ]
+    },
+    "Gallatin": {
+      "count": 72,
+      "postal_codes": [
+        "37066",
+        "38066"
+      ]
+    },
+    "Goodletsville": {
+      "count": 1,
+      "postal_codes": [
+        "37012"
+      ]
+    },
+    "Goodlettsville": {
+      "count": 84,
+      "postal_codes": [
+        "37072",
+        "37207"
+      ]
+    },
+    "Greenbrier": {
+      "count": 13,
+      "postal_codes": [
+        "37073"
+      ]
+    },
+    "Hendersonville": {
+      "count": 210,
+      "postal_codes": [
+        "37075"
+      ]
+    },
+    "Hermitage": {
+      "count": 111,
+      "postal_codes": [
+        "37073",
+        "37076"
+      ]
+    },
+    "Inglewood": {
+      "count": 1,
+      "postal_codes": [
+        "37216"
+      ]
+    },
+    "Joelton": {
+      "count": 13,
+      "postal_codes": [
+        "37080"
+      ]
+    },
+    "Kingston Springs": {
+      "count": 9,
+      "postal_codes": [
+        "37082"
+      ]
+    },
+    "La Vergne": {
+      "count": 48,
+      "postal_codes": [
+        "37086"
+      ]
+    },
+    "Lebanon": {
+      "count": 10,
+      "postal_codes": [
+        "37087",
+        "37090"
+      ]
+    },
+    "MADISON": {
+      "count": 1,
+      "postal_codes": [
+        "37115"
+      ]
+    },
+    "Madison": {
+      "count": 103,
+      "postal_codes": [
+        "37115"
+      ]
+    },
+    "Mount Juliet": {
+      "count": 116,
+      "postal_codes": [
+        "37122",
+        "37138"
+      ]
+    },
+    "Mt Juliet": {
+      "count": 15,
+      "postal_codes": [
+        "37122"
+      ]
+    },
+    "Mt. Juliet": {
+      "count": 34,
+      "postal_codes": [
+        "37122"
+      ]
+    },
+    "Mt.Juliet": {
+      "count": 1,
+      "postal_codes": [
+        "37122"
+      ]
+    },
+    "NASHVILLE": {
+      "count": 2,
+      "postal_codes": [
+        "37203",
+        "37211"
+      ]
+    },
+    "Nashville": {
+      "count": 3027,
+      "postal_codes": [
+        "28801",
+        "32709",
+        "37011",
+        "37013",
+        "37024",
+        "37026",
+        "37027",
+        "37067",
+        "37072",
+        "37076",
+        "37115",
+        "37135",
+        "37138",
+        "37189",
+        "37201",
+        "37203",
+        "37204",
+        "37205",
+        "37206",
+        "37207",
+        "37208",
+        "37209",
+        "37210",
+        "37211",
+        "37212",
+        "37213",
+        "37214",
+        "37215",
+        "37216",
+        "37217",
+        "37218",
+        "37219",
+        "37220",
+        "37221",
+        "37228",
+        "37229",
+        "37232",
+        "37238",
+        "37240",
+        "37243",
+        "37246"
+      ]
+    },
+    "Nashville-Davidson metropolitan government (balance)": {
+      "count": 2,
+      "postal_codes": [
+        "37076",
+        "37207"
+      ]
+    },
+    "Nolensville": {
+      "count": 49,
+      "postal_codes": [
+        "37135",
+        "37211"
+      ]
+    },
+    "Old Hickory": {
+      "count": 39,
+      "postal_codes": [
+        "37122",
+        "37138"
+      ]
+    },
+    "Pleasant View": {
+      "count": 28,
+      "postal_codes": [
+        "37146"
+      ]
+    },
+    "Rural Hill": {
+      "count": 1,
+      "postal_codes": [
+        "37076"
+      ]
+    },
+    "Smyrna": {
+      "count": 190,
+      "postal_codes": [
+        "37027",
+        "37167"
+      ]
+    },
+    "Springfield": {
+      "count": 33,
+      "postal_codes": [
+        "37172"
+      ]
+    },
+    "View": {
+      "count": 1,
+      "postal_codes": [
+        "37146"
+      ]
+    },
+    "White House": {
+      "count": 47,
+      "postal_codes": [
+        "37148",
+        "37188"
+      ]
+    },
+    "Whites Creek": {
+      "count": 5,
+      "postal_codes": [
+        "37189"
+      ]
+    },
+    "goodlettsville": {
+      "count": 1,
+      "postal_codes": [
+        "37072"
+      ]
+    },
+    "nashville": {
+      "count": 1,
+      "postal_codes": [
+        "37115"
+      ]
+    }
+  }
+}

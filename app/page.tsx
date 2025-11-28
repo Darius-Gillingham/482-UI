@@ -1,10 +1,11 @@
 // File: app/page.tsx
-// Commit: Insert LocationSelect above QueryBox and pass state/city into search request.
+// Commit: Integrate LocationSelect, LatLongFetcher, postal code, and pass lat/lon into search request.
 
 "use client";
 
 import { useState } from "react";
 import LocationSelect from "./LocationSelect";
+import LatLongFetcher from "./LatLongFetcher";
 import { QueryBox } from "./QueryBox";
 import { LoadingBar } from "./LoadingBar";
 import { CategoryPillStream } from "./CategoryPillStream";
@@ -25,6 +26,10 @@ export type RestaurantPrediction = {
 export default function Page() {
   const [selectedState, setSelectedState] = useState("");
   const [selectedCity, setSelectedCity] = useState("");
+  const [selectedPostal, setSelectedPostal] = useState("");
+
+  const [lat, setLat] = useState<number | null>(null);
+  const [lon, setLon] = useState<number | null>(null);
 
   const [categories, setCategories] = useState<CategoryPrediction[]>([]);
   const [totalCategories, setTotalCategories] = useState<number | null>(null);
@@ -40,8 +45,13 @@ export default function Page() {
       return;
     }
 
-    if (!selectedState || !selectedCity) {
-      setError("Please select both state and city.");
+    if (!selectedState || !selectedCity || !selectedPostal) {
+      setError("Please select state, city, and postal code.");
+      return;
+    }
+
+    if (lat === null || lon === null) {
+      setError("Coordinates not available for this postal code.");
       return;
     }
 
@@ -59,8 +69,9 @@ export default function Page() {
           query: trimmed,
           state: selectedState,
           city: selectedCity,
-          lat: null,
-          lon: null
+          postal: selectedPostal,
+          lat: lat,
+          lon: lon
         })
       });
 
@@ -130,6 +141,15 @@ export default function Page() {
       <LocationSelect
         onStateChange={setSelectedState}
         onCityChange={setSelectedCity}
+        onPostalChange={setSelectedPostal}
+      />
+
+      <LatLongFetcher
+        state={selectedState}
+        city={selectedCity}
+        postal={selectedPostal}
+        onLatChange={setLat}
+        onLonChange={setLon}
       />
 
       <section
