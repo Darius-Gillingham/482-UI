@@ -24,7 +24,7 @@ export function QueryBox({ onSubmit, disabled }: QueryBoxProps){
       <textarea
         value={value}
         onChange={(e) => setValue(e.target.value)}
-        placeholder='e.g. "Halal Pakistani with good biryani" or "Greek seafood and fresh salad"'
+        placeholder='e.g. "Halal Pakistani restaurants nearby" or "A place with good breakfast and orange juice"'
         style={{
           width: "100%",
           minHeight: "80px",
