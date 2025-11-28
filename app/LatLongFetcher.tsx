@@ -1,5 +1,5 @@
 // File: app/LatLongFetcher.tsx
-// Commit: Add modular component to fetch and display latitude/longitude using Nominatim API.
+// Commit: Normalize postal codes and improve Nominatim queries for accurate lat/lon lookup.
 
 "use client";
 
@@ -25,7 +25,6 @@ export default function LatLongFetcher({
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
-  // Perform lookup whenever state/city/postal changes
   useEffect(() => {
     if (!state || !city || !postal) {
       setLat(null);
@@ -41,11 +40,14 @@ export default function LatLongFetcher({
       setError(null);
 
       try {
+        // Remove spaces for Canadian postal codes: "T4X 0B6" → "T4X0B6"
+        const cleanPostal = postal.replace(/\s+/g, "");
+
         const params = new URLSearchParams({
-          postalcode: postal,
+          postalcode: cleanPostal,
           city: city,
           state: state,
-          country: "Canada,USA",
+          country: "Canada",
           format: "json"
         });
 
