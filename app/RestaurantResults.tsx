@@ -12,7 +12,7 @@ type RestaurantResultsProps = {
 
 export function RestaurantResults({
   restaurants,
-}: RestaurantResultsProps): JSX.Element {
+}: RestaurantResultsProps){
   if (restaurants.length === 0) {
     return (
       <div

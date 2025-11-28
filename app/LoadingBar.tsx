@@ -10,7 +10,7 @@ type LoadingBarProps = {
   total: number;
 };
 
-export function LoadingBar({ current, total }: LoadingBarProps): JSX.Element {
+export function LoadingBar({ current, total }: LoadingBarProps){
   const safeTotal = total <= 0 ? 1 : total;
   const clampedCurrent = current < 0 ? 0 : current > safeTotal ? safeTotal : current;
   const percent = (clampedCurrent / safeTotal) * 100;

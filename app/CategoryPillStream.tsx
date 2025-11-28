@@ -12,7 +12,7 @@ type CategoryPillStreamProps = {
 
 export function CategoryPillStream({
   categories,
-}: CategoryPillStreamProps): JSX.Element {
+}: CategoryPillStreamProps) {
   if (categories.length === 0) {
     return (
       <p style={{ fontSize: "0.9rem", opacity: 0.8 }}>

@@ -10,7 +10,7 @@ type QueryBoxProps = {
   disabled?: boolean;
 };
 
-export function QueryBox({ onSubmit, disabled }: QueryBoxProps): JSX.Element {
+export function QueryBox({ onSubmit, disabled }: QueryBoxProps){
   const [value, setValue] = useState("");
 
   async function handleSubmit(event: FormEvent): Promise<void> {
