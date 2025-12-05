@@ -1,5 +1,5 @@
 // File: app/LocationSelect.tsx
-// Commit: Update component to support new location_data.json structure including postal codes.
+// Commit: Add collapsible panel and "Change Location" button to toggle visibility of the selector while preserving all existing logic.
 
 "use client";
 
@@ -35,6 +35,9 @@ export default function LocationSelect({
   const [selectedState, setSelectedState] = useState("");
   const [selectedCity, setSelectedCity] = useState("");
   const [selectedPostal, setSelectedPostal] = useState("");
+
+  // NEW: toggle open/closed
+  const [open, setOpen] = useState(false);
 
   // Load states on mount
   useEffect(() => {
@@ -81,89 +84,124 @@ export default function LocationSelect({
   }
 
   return (
-    <div
-      style={{
-        width: "100%",
-        marginBottom: "1.25rem",
-        padding: "1rem",
-        borderRadius: "0.75rem",
-        backgroundColor: "#ffffff",
-        border: "1px solid rgba(0,0,0,0.08)",
-        boxShadow: "0 4px 12px rgba(0,0,0,0.04)"
-      }}
-    >
-      <h2
+    <div style={{ width: "100%", marginBottom: "1.25rem" }}>
+      {/* ─────────────────────────────────────────────── */}
+      {/* TOGGLE BUTTON */}
+      {/* ─────────────────────────────────────────────── */}
+      <button
+        onClick={() => setOpen(!open)}
         style={{
-          fontSize: "1.15rem",
-          marginBottom: "0.75rem",
-          fontWeight: 600
+          padding: "0.65rem 1.2rem",
+          borderRadius: "0.5rem",
+          background: "linear-gradient(135deg, #ef4444, #f97316)",
+          color: "white",
+          border: "none",
+          cursor: "pointer",
+          fontSize: "1rem",
+          fontWeight: 600,
+          marginBottom: "0.5rem",
+          width: "fit-content",
+          boxShadow: "0 6px 16px rgba(249,115,22,0.35)"
         }}
       >
-        Select Location
-      </h2>
+        {open ? "Close Location Selector" : "Change Location"}
+      </button>
 
-      <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
-        {/* STATE */}
-        <select
-          value={selectedState}
-          onChange={handleStateChange}
+      {/* ─────────────────────────────────────────────── */}
+      {/* COLLAPSIBLE PANEL */}
+      {/* ─────────────────────────────────────────────── */}
+      {open && (
+        <div
           style={{
-            padding: "0.65rem",
-            borderRadius: "0.5rem",
-            border: "1px solid rgba(0,0,0,0.15)",
-            fontSize: "0.95rem"
+            width: "100%",
+            padding: "1rem",
+            borderRadius: "0.75rem",
+            backgroundColor: "#ffffff",
+            border: "1px solid rgba(0,0,0,0.08)",
+            boxShadow: "0 4px 12px rgba(0,0,0,0.04)",
+            marginTop: "0.5rem"
           }}
         >
-          <option value="">Select State</option>
-          {stateList.map((st) => (
-            <option key={st} value={st}>
-              {st}
-            </option>
-          ))}
-        </select>
+          <h2
+            style={{
+              fontSize: "1.15rem",
+              marginBottom: "0.75rem",
+              fontWeight: 600
+            }}
+          >
+            Select Location
+          </h2>
 
-        {/* CITY */}
-        <select
-          value={selectedCity}
-          onChange={handleCityChange}
-          disabled={!selectedState}
-          style={{
-            padding: "0.65rem",
-            borderRadius: "0.5rem",
-            border: "1px solid rgba(0,0,0,0.15)",
-            fontSize: "0.95rem",
-            opacity: selectedState ? 1 : 0.5
-          }}
-        >
-          <option value="">Select City</option>
-          {cityList.map((city) => (
-            <option key={city} value={city}>
-              {city}
-            </option>
-          ))}
-        </select>
+          <div
+            style={{
+              display: "flex",
+              flexDirection: "column",
+              gap: "0.75rem"
+            }}
+          >
+            {/* STATE */}
+            <select
+              value={selectedState}
+              onChange={handleStateChange}
+              style={{
+                padding: "0.65rem",
+                borderRadius: "0.5rem",
+                border: "1px solid rgba(0,0,0,0.15)",
+                fontSize: "0.95rem"
+              }}
+            >
+              <option value="">Select State</option>
+              {stateList.map((st) => (
+                <option key={st} value={st}>
+                  {st}
+                </option>
+              ))}
+            </select>
 
-        {/* POSTAL CODE */}
-        <select
-          value={selectedPostal}
-          onChange={handlePostalChange}
-          disabled={!selectedCity}
-          style={{
-            padding: "0.65rem",
-            borderRadius: "0.5rem",
-            border: "1px solid rgba(0,0,0,0.15)",
-            fontSize: "0.95rem",
-            opacity: selectedCity ? 1 : 0.5
-          }}
-        >
-          <option value="">Select Postal Code</option>
-          {postalList.map((pc) => (
-            <option key={pc} value={pc}>
-              {pc}
-            </option>
-          ))}
-        </select>
-      </div>
+            {/* CITY */}
+            <select
+              value={selectedCity}
+              onChange={handleCityChange}
+              disabled={!selectedState}
+              style={{
+                padding: "0.65rem",
+                borderRadius: "0.5rem",
+                border: "1px solid rgba(0,0,0,0.15)",
+                fontSize: "0.95rem",
+                opacity: selectedState ? 1 : 0.5
+              }}
+            >
+              <option value="">Select City</option>
+              {cityList.map((city) => (
+                <option key={city} value={city}>
+                  {city}
+                </option>
+              ))}
+            </select>
+
+            {/* POSTAL */}
+            <select
+              value={selectedPostal}
+              onChange={handlePostalChange}
+              disabled={!selectedCity}
+              style={{
+                padding: "0.65rem",
+                borderRadius: "0.5rem",
+                border: "1px solid rgba(0,0,0,0.15)",
+                fontSize: "0.95rem",
+                opacity: selectedCity ? 1 : 0.5
+              }}
+            >
+              <option value="">Select Postal Code</option>
+              {postalList.map((pc) => (
+                <option key={pc} value={pc}>
+                  {pc}
+                </option>
+              ))}
+            </select>
+          </div>
+        </div>
+      )}
     </div>
   );
 }

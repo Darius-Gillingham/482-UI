@@ -1,22 +1,61 @@
-// File: src/app/QueryBox.tsx
-// Commit: Add query box component for entering craving text and submitting search.
+// File: app/QueryBox.tsx
+// Commit: Replace QueryBox with chat-style PromptBox that forwards query + lat/lon to /api/search.
 
 "use client";
 
 import React, { useState, FormEvent } from "react";
 
 type QueryBoxProps = {
-  onSubmit: (query: string) => void | Promise<void>;
+  lat: number | null;
+  lon: number | null;
+  state: string;
+  city: string;
+  postal: string;
+  onResponse: (value: string) => void; // parent receives formatted result text
   disabled?: boolean;
 };
 
-export function QueryBox({ onSubmit, disabled }: QueryBoxProps){
+export function QueryBox({
+  lat,
+  lon,
+  state,
+  city,
+  postal,
+  onResponse,
+  disabled
+}: QueryBoxProps) {
   const [value, setValue] = useState("");
+  const [loading, setLoading] = useState(false);
 
   async function handleSubmit(event: FormEvent): Promise<void> {
     event.preventDefault();
     if (!value.trim() || disabled) return;
-    await onSubmit(value);
+
+    setLoading(true);
+
+    try {
+      const payload = {
+        query: value,
+        lat,
+        lon,
+        state,
+        city,
+        postal
+      };
+
+      const res = await fetch("/api/search", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload)
+      });
+
+      const text = await res.text();
+      onResponse(text);
+    } catch (err) {
+      onResponse("Error contacting server.");
+    }
+
+    setLoading(false);
   }
 
   return (
@@ -24,45 +63,44 @@ export function QueryBox({ onSubmit, disabled }: QueryBoxProps){
       <textarea
         value={value}
         onChange={(e) => setValue(e.target.value)}
-        placeholder='e.g. "Halal Pakistani restaurants nearby" or "A place with good breakfast and orange juice"'
+        placeholder='Describe what you want (e.g. “Halal Pakistani nearby” or “breakfast + orange juice”).'
         style={{
           width: "100%",
-          minHeight: "80px",
+          minHeight: "90px",
+          padding: "0.85rem 1rem",
+          borderRadius: "10px",
+          border: "1px solid rgba(0,0,0,0.15)",
+          fontSize: "1rem",
           resize: "vertical",
-          padding: "0.75rem 0.9rem",
-          borderRadius: "0.5rem",
-          border: "1px solid rgba(15,23,42,0.18)",
-          fontSize: "0.95rem",
-          lineHeight: 1.4,
           outline: "none",
-          boxSizing: "border-box",
+          background: "#fff"
         }}
       />
+
       <div
         style={{
           display: "flex",
           justifyContent: "flex-end",
-          marginTop: "0.75rem",
+          marginTop: "0.75rem"
         }}
       >
         <button
           type="submit"
-          disabled={disabled}
+          disabled={loading || disabled}
           style={{
-            padding: "0.55rem 1.25rem",
-            borderRadius: "999px",
+            padding: "0.6rem 1.4rem",
+            borderRadius: "50px",
             border: "none",
-            fontSize: "0.95rem",
+            fontSize: "1rem",
             fontWeight: 600,
-            cursor: disabled ? "not-allowed" : "pointer",
-            opacity: disabled ? 0.6 : 1,
+            cursor: loading ? "not-allowed" : "pointer",
             background:
               "linear-gradient(135deg, rgba(239,68,68,1), rgba(249,115,22,1))",
             color: "#ffffff",
-            boxShadow: "0 8px 18px rgba(249,115,22,0.35)",
+            opacity: loading ? 0.65 : 1
           }}
         >
-          Find restaurants
+          {loading ? "Searching…" : "Find restaurants"}
         </button>
       </div>
     </form>

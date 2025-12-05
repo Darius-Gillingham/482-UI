@@ -1,26 +1,37 @@
-// File: src/app/RestaurantResults.tsx
-// Commit: Add ranked restaurant results list, highlighting the top prediction.
+// File: app/RestaurantResults.tsx
+// Commit: Update results component to use new predict_business output structure (top_10_details + confidence).
 
 "use client";
 
 import React from "react";
-import type { RestaurantPrediction } from "./page";
 
-type RestaurantResultsProps = {
-  restaurants: RestaurantPrediction[];
+type BusinessDetail = {
+  business_id: string;
+  name: string;
+  city: string;
 };
 
-export function RestaurantResults({
-  restaurants,
-}: RestaurantResultsProps){
-  if (restaurants.length === 0) {
+type BusinessResult = {
+  top_prediction: {
+    business_id: string;
+    confidence: number;
+  };
+  top_10_details: BusinessDetail[];
+};
+
+type RestaurantResultsProps = {
+  result: BusinessResult | null;
+};
+
+export function RestaurantResults({ result }: RestaurantResultsProps) {
+  if (!result || !result.top_10_details || result.top_10_details.length === 0) {
     return (
       <div
         style={{
           padding: "1rem 1.25rem",
           borderRadius: "0.75rem",
           border: "1px dashed rgba(148,163,184,0.65)",
-          backgroundColor: "#f9fafb",
+          backgroundColor: "#f9fafb"
         }}
       >
         <p style={{ fontSize: "0.9rem", opacity: 0.75 }}>
@@ -31,19 +42,22 @@ export function RestaurantResults({
     );
   }
 
+  const { top_prediction, top_10_details } = result;
+
   return (
     <div
       style={{
         display: "flex",
         flexDirection: "column",
-        gap: "0.85rem",
+        gap: "0.85rem"
       }}
     >
-      {restaurants.map((restaurant, index) => {
-        const isTop = index === 0;
+      {top_10_details.map((biz, index) => {
+        const isTop = biz.business_id === top_prediction.business_id;
+
         return (
           <article
-            key={restaurant.id}
+            key={biz.business_id}
             style={{
               padding: "0.9rem 1.1rem",
               borderRadius: "0.75rem",
@@ -53,7 +67,7 @@ export function RestaurantResults({
               backgroundColor: isTop ? "#fffbeb" : "#ffffff",
               boxShadow: isTop
                 ? "0 12px 26px rgba(249,115,22,0.18)"
-                : "0 6px 18px rgba(15,23,42,0.04)",
+                : "0 6px 18px rgba(15,23,42,0.04)"
             }}
           >
             <div
@@ -61,29 +75,33 @@ export function RestaurantResults({
                 display: "flex",
                 justifyContent: "space-between",
                 alignItems: "baseline",
-                marginBottom: "0.25rem",
+                marginBottom: "0.25rem"
               }}
             >
               <h3
                 style={{
                   fontSize: isTop ? "1.25rem" : "1.05rem",
                   fontFamily:
-                    '"DM Serif Display", "Times New Roman", ui-serif, Georgia, serif',
+                    '"DM Serif Display", "Times New Roman", ui-serif, Georgia, serif'
                 }}
               >
-                {restaurant.name}
+                {biz.name}
               </h3>
+
               <div
                 style={{
                   fontSize: "0.9rem",
                   fontWeight: 600,
                   color: "#b45309",
-                  fontVariantNumeric: "tabular-nums",
+                  fontVariantNumeric: "tabular-nums"
                 }}
               >
-                Match {(restaurant.score * 100).toFixed(0)}%
+                {isTop
+                  ? `Match ${(top_prediction.confidence * 100).toFixed(0)}%`
+                  : `Rank #${index + 1}`}
               </div>
             </div>
+
             <div
               style={{
                 fontSize: "0.9rem",
@@ -91,18 +109,19 @@ export function RestaurantResults({
                 display: "flex",
                 justifyContent: "space-between",
                 flexWrap: "wrap",
-                gap: "0.25rem",
+                gap: "0.25rem"
               }}
             >
-              <span>{restaurant.city}</span>
+              <span>{biz.city}</span>
+
               <span
                 style={{
                   fontSize: "0.8rem",
                   textTransform: "uppercase",
-                  letterSpacing: "0.06em",
+                  letterSpacing: "0.06em"
                 }}
               >
-                {isTop ? "Top recommendation" : `Rank #${index + 1}`}
+                {isTop ? "Top Recommendation" : "Alternative Match"}
               </span>
             </div>
           </article>

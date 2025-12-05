@@ -1,5 +1,8 @@
 // File: app/LatLongFetcher.tsx
-// Commit: Normalize postal codes and improve Nominatim queries for accurate lat/lon lookup.
+// Commit: Fix Nominatim lookups by choosing country per state and keeping Canadian postal normalization.
+
+// NOTE: This is a client component; it fetches lat/lon directly from Nominatim
+// based on the selected state, city, and postal code.
 
 "use client";
 
@@ -12,6 +15,12 @@ type LatLongFetcherProps = {
   onLatChange: (value: number | null) => void;
   onLonChange: (value: number | null) => void;
 };
+
+// Canadian province/territory codes (two-letter) used in your dataset.
+const CANADIAN_PROVINCES = new Set([
+  "AB", "BC", "MB", "NB", "NL", "NS", "NT", "NU",
+  "ON", "PE", "QC", "SK", "YT"
+]);
 
 export default function LatLongFetcher({
   state,
@@ -26,6 +35,7 @@ export default function LatLongFetcher({
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
+    // Reset when inputs are incomplete
     if (!state || !city || !postal) {
       setLat(null);
       setLon(null);
@@ -40,14 +50,31 @@ export default function LatLongFetcher({
       setError(null);
 
       try {
-        // Remove spaces for Canadian postal codes: "T4X 0B6" → "T4X0B6"
-        const cleanPostal = postal.replace(/\s+/g, "");
+        // Decide country based on state code.
+        // - Canadian provinces → "ca"
+        // - Everything else (your US states) → "us"
+        const isCanada = CANADIAN_PROVINCES.has(state.toUpperCase());
+        const countryCode = isCanada ? "ca" : "us";
+
+        let normalizedPostal = postal.trim();
+
+        if (isCanada) {
+          // Your Canadian entries come in as "T5A 0A4", etc.
+          // Nominatim accepts both; you’ve empirically seen that
+          // stripping spaces works, so keep that behavior.
+          normalizedPostal = normalizedPostal.replace(/\s+/g, "");
+        } else {
+          // US ZIPs: just strip outer whitespace, keep digits as-is.
+          // e.g. "85706" stays "85706".
+          normalizedPostal = normalizedPostal.replace(/\s+/g, "");
+        }
 
         const params = new URLSearchParams({
-          postalcode: cleanPostal,
+          postalcode: normalizedPostal,
           city: city,
           state: state,
-          country: "Canada",
+          // Nominatim prefers "countrycodes" (ISO-3166 alpha-2).
+          countrycodes: countryCode,
           format: "json"
         });
 
@@ -55,12 +82,13 @@ export default function LatLongFetcher({
 
         const res = await fetch(url, {
           headers: {
-            "User-Agent": "482-UI/1.0" // required by Nominatim rules
+            // Nominatim requires a valid UA string.
+            "User-Agent": "482-UI/1.0 (student project)"
           }
         });
 
         if (!res.ok) {
-          throw new Error("Lookup failed.");
+          throw new Error(`Lookup failed with status ${res.status}`);
         }
 
         const data = await res.json();
@@ -79,9 +107,12 @@ export default function LatLongFetcher({
         const latNum = Number(first.lat);
         const lonNum = Number(first.lon);
 
+        if (!Number.isFinite(latNum) || !Number.isFinite(lonNum)) {
+          throw new Error("Invalid coordinates returned from lookup.");
+        }
+
         setLat(latNum);
         setLon(lonNum);
-
         onLatChange(latNum);
         onLonChange(lonNum);
       } catch (err) {
@@ -120,7 +151,9 @@ export default function LatLongFetcher({
       </h3>
 
       {loading && (
-        <p style={{ fontSize: "0.9rem", color: "#555" }}>Looking up location…</p>
+        <p style={{ fontSize: "0.9rem", color: "#555" }}>
+          Looking up location…
+        </p>
       )}
 
       {error && (
