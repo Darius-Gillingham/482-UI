@@ -1,5 +1,5 @@
 // File: app/page.tsx
-// Commit: Integrate LocationSelect, LatLongFetcher, postal code, and pass lat/lon into search request.
+// Commit: Fix RestaurantResults import to use named export; file reprinted in full.
 
 "use client";
 
@@ -9,7 +9,7 @@ import LatLongFetcher from "./LatLongFetcher";
 import { QueryBox } from "./QueryBox";
 import { LoadingBar } from "./LoadingBar";
 import { CategoryPillStream } from "./CategoryPillStream";
-import { RestaurantResults } from "./RestaurantResults";
+import RestaurantResults from "./RestaurantResults";
 
 export type CategoryPrediction = {
   label: string;
