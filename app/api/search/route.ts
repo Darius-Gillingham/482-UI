@@ -4,7 +4,7 @@
 import { NextResponse } from "next/server";
 
 // Single backend root URL
-// Example: https://my-railway-app.up.railway.app
+
 const BASE_URL = process.env.NEXT_PUBLIC_RAILWAY_URL;
 
 export async function POST(req: Request) {

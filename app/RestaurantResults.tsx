@@ -1,18 +1,22 @@
 // File: app/RestaurantResults.tsx
-// Commit: Convert RestaurantResults to a default export to satisfy React/TSX component resolution.
+// Commit: Remove dependency on page.tsx and define RestaurantPrediction locally to fix Vercel build.
 
 "use client";
 
 import React from "react";
-import type { RestaurantPrediction } from "./page";
+
+// This type is now defined locally.
+// It matches what your route returns under business.top_10_details.
+export type RestaurantPrediction = {
+  name: string;
+  city: string;
+};
 
 type RestaurantResultsProps = {
   restaurants: RestaurantPrediction[];
 };
 
-export default function RestaurantResults({
-  restaurants,
-}: RestaurantResultsProps) {
+export function RestaurantResults({ restaurants }: RestaurantResultsProps) {
   if (restaurants.length === 0) {
     return (
       <div
@@ -41,9 +45,10 @@ export default function RestaurantResults({
     >
       {restaurants.map((restaurant, index) => {
         const isTop = index === 0;
+
         return (
           <article
-            key={restaurant.id}
+            key={`${restaurant.name}-${index}`}
             style={{
               padding: "0.9rem 1.1rem",
               borderRadius: "0.75rem",
@@ -73,37 +78,25 @@ export default function RestaurantResults({
               >
                 {restaurant.name}
               </h3>
+
               <div
                 style={{
-                  fontSize: "0.9rem",
-                  fontWeight: 600,
-                  color: "#b45309",
+                  fontSize: "0.8rem",
+                  opacity: 0.8,
                   fontVariantNumeric: "tabular-nums",
                 }}
               >
-                Match {(restaurant.score * 100).toFixed(0)}%
+                {isTop ? "Top recommendation" : `Rank #${index + 1}`}
               </div>
             </div>
+
             <div
               style={{
                 fontSize: "0.9rem",
                 opacity: 0.8,
-                display: "flex",
-                justifyContent: "space-between",
-                flexWrap: "wrap",
-                gap: "0.25rem",
               }}
             >
-              <span>{restaurant.city}</span>
-              <span
-                style={{
-                  fontSize: "0.8rem",
-                  textTransform: "uppercase",
-                  letterSpacing: "0.06em",
-                }}
-              >
-                {isTop ? "Top recommendation" : `Rank #${index + 1}`}
-              </span>
+              {restaurant.city}
             </div>
           </article>
         );
